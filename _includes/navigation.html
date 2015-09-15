@@ -1,0 +1,9 @@
+<div class="navigation">
+	<ul class="list-unstyled">
+		{% for p in site.data.pages %}
+			<li>
+				<a href="{{ p.url }}"><h3>{{ p.name }}</h3></a>
+			</li>
+		{% endfor %}
+	</ul>
+</div>
