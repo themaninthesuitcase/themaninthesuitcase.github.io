@@ -8,16 +8,16 @@ layout: default
   {% endfor %}
 </div>
 
-<div class="pagination">
+<div class="navigation">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
+  <div class="pull-left">
+    <a href="{{ paginator.previous_page_path }}">Previous</a>
+  </div>
   {% endif %}
-  <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
+  <div class="pull-right">
+    <a href="{{ paginator.next_page_path }}">Next</a>
+  </div>
   {% endif %}
 </div>
