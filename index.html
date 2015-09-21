@@ -4,7 +4,18 @@ layout: default
 
 <div class="home">
   {% for post in paginator.posts %}
-    {% include post.html %}
+  <div class="post">
+
+    <article class="post-content">
+      <header class="post-header">
+        <a href="{{post.url}}"><h2 class="post-title">{{ post.title }}</h2></a>
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}</p>
+      </header>
+
+      {{ post.content }}
+    </article>
+
+  </div>
   {% endfor %}
 </div>
 
