@@ -12,12 +12,18 @@ layout: default
     {{ content }}
   </article>
 
-<nav>
-  <ul>
-    {% if paginator.previous_page %}
-      <li><a href="{{ paginator.previous_page_path }}">paginator.</a></li>
-    {% endif %}
-  </ul>
-</nav>
+</div>
 
+<div class="navigation">
+  {% if page.previous.url %}
+    <div class="pull-left">
+      <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+    </div>
+  {% endif %}
+
+  {% if page.next.url %}
+    <div class="pull-right">
+      <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+    </div>
+  {% endif %}
 </div>
