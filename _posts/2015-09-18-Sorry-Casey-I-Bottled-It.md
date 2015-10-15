@@ -1,7 +1,12 @@
 ---
 title: "Sorry Casey, I bottled it..."
+description: "The start of the journey."
 categories:
+	- personal
 tags:
+	- jekyll
+	- node
+
 ---
 It started with a brief twitter conversation about writing a blog and developing in the newest hip language that the cooler kids where using.  [Node.js](https://nodejs.org/) if you're interested, I can tell you are.  After a brief exchange I resolved to write my own blog engine.
 
