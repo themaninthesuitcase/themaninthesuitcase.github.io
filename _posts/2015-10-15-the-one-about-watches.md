@@ -2,11 +2,11 @@
 title: The one about watches
 description: I want an Apple watch, or do I?
 categories:
-	- tech
+ - tech
 tags:
-	- apple
-	- watch
-	- tissot
+ - apple
+ - watch
+ - tissot
 ---
 I've had my watch for a long time.  I can't remember exactly when I got it but it was bought using money I was given by my grandmother,  I'd estimate ive had it about 12 years. It's made by the respected Swiss brand Tissot and I've worn it more or less every day since I bought it.
 
