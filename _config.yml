@@ -1,7 +1,7 @@
 # Site settings
 title: Husband, father, geek.
 email: chris@cpearson.me.uk
-description: Personal blog of Chris Pearson.  Husband, father, geek.
+description: Husband, father, geek.  The personal blog of Chris Pearson.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.cpearson.me.uk" # the base hostname & protocol for your site
 author: Chris Pearson
