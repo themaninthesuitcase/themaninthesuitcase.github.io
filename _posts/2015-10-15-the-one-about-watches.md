@@ -8,7 +8,7 @@ tags:
  - watch
  - tissot
 ---
-I've had my watch for a long time.  I can't remember exactly when I got it but it was bought using money I was given by my grandmother,  I'd estimate ive had it about 12 years. It's made by the respected Swiss brand Tissot and I've worn it more or less every day since I bought it.
+I've had my watch for a long time.  I can't remember exactly when I got it but it was bought using money I was given by my grandmother,  I'd estimate I've had it about 12 years. It's made by the respected Swiss brand Tissot and I've worn it more or less every day since I bought it.
 
 But in April 2014 Apple changed everything. Watching the announcement of Apple Watch my interest was piqued. Something I've not been able to shake since.
 
