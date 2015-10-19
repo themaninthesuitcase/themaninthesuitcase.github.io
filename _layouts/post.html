@@ -17,13 +17,13 @@ layout: default
 <div class="navigation">
   {% if page.previous.url %}
     <div class="pull-left">
-      <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+      Previous: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
     </div>
   {% endif %}
 
   {% if page.next.url %}
     <div class="pull-right">
-      <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+      Next: <a href="{{ page.next.url }}">{{ page.next.title }}</a>
     </div>
   {% endif %}
 </div>
