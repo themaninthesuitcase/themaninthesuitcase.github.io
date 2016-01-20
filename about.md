@@ -21,5 +21,5 @@ The page you are currently reading is powered by [Jekyll](http://jekyllrb.com/),
 
 The site theme is [Yeti][yeti] by [bootswatch][bootswatch].
 
-[yeti]: http://bootswatch.com
-[bootswatch]: http://bootswatch.com/yeti
+[yeti]: http://bootswatch.com/yeti
+[bootswatch]: http://bootswatch.com
