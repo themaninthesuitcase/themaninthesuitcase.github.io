@@ -19,4 +19,4 @@ This is something I've wanted to be able to do for a while so it's pretty exciti
 
 [altag]: {% post_url 2015-11-25-a-long-time-ago %}
 [WWDC]: https://developer.apple.com/wwdc/
-[atkdk]: https://developer.apple.com/tvos/developer-kit/
+[atvdk]: https://developer.apple.com/tvos/developer-kit/
