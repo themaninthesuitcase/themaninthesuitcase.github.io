@@ -3,11 +3,11 @@ title: TKVoice Help
 layout: page
 permalink: /tkvoice/help/
 ---
-**TKVoice requires additional hardware to get the best from it. [Please see below for details](#Required hardware).**
+**TKVoice requires additional hardware to get the best from it.**
 
 First we recommend you enable airplane mode.  Nothing breaks the magic like getting a phone call whilst you're trooping.  
 
-To do this simply swipe up from the bottom of the screen to open control cantre and then tap the airplane button.  This will disable stop phone calls and disable the wireless features of the phone.
+To do this simply swipe up from the bottom of the screen to open control center and then tap the airplane button.  This will disable stop phone calls and disable the wireless features of the phone.
 
 Once in the app just speak into the microphone and the app will work it's magic.
 
@@ -41,7 +41,7 @@ Be aware that not all microphones will work, there are ways around this but it's
 
 When choosing an adapter be careful to buy a 4 pin (aka TRRS) to microphone and headphone cable.  The much more common headphone splitter cable looks very similar and will often come up in the same search.  
 
-Also ensure you get an iPhone compatable cable. Cables for android devices will use a different pin layout and will not work.
+Also ensure you get an iPhone compatible cable. Cables for android devices will use a different pin layout and will not work.
 
 **_Headset Adapter_** seems to be the magic search term for these.
 
@@ -63,4 +63,4 @@ I have both but the PCV 05 is the one I use.
 If you find any parts that work and are not listed, please [contact me][contact].
 
 
-[contact]: /contact/
+[contact]: /tkvoice/support/
