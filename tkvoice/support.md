@@ -12,4 +12,4 @@ Feedback can be sent on one of two ways:
  - [@tkvoiceapp](https://twitter.com/tkvoiceapp) on twitter.
  - [tkvoice@cpearson.me.uk](mailto:tkvoice@cpearson.me.uk) for private feedback.
 
-**I will try to read everything**, but as this is a hobby project sometimes my family must come first.
+I will try to read everything, but as this is a hobby project sometimes my family must come first.
