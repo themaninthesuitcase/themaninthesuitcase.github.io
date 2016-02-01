@@ -5,7 +5,7 @@ permalink: /tkvoice/privacy/
 ---
 {% include tkvoicemenu.html %}
 
-#Privacy Policy
+# Privacy Policy 
 
 <small>Published: 31st January 2016</small>
 
