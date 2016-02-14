@@ -20,3 +20,5 @@ defaults:
       values:
         author: "Chris Pearson"
         layout: post
+
+gems: [jekyll-paginate]
