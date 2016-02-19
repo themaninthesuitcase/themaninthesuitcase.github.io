@@ -64,6 +64,16 @@ Whilst I don't like the blue I wanted black anyway. In hindsight a black M63 wou
 
 As the conversion works and I already have 2 refills, I'll just use the MB for now but once they run out I'll be getting the correct M63.
 
+## Addendum
+
+After using the hacked Vista in anger for a morning the short protrusion drove me nuts.  At lunch I went and picked up a black M63 refill.
+
+Again the Lamy refill feels nicer in the hand than the Montblanc and the line is the same slightly wide medium as the blue.  The blacks are very similar to the point I couldn't say one was better than the other.
+
+The Montblanc does have one area of advantage though. On the beyond cheap paper pad I have at work the Lamy feathers ever so slightly, the Montblanc doesn't.  This could be due to the formulation or the volume of ink put down.  Either way, it's one area I've seen Montblanc excell in, their fountain pen inks behave exceedingly well in my experiance also.
+
+If anyone has a need for some Montblanc rollerball refills, I have 2 sat on a shelf.
+
 [mbm]: http://www.penshop.co.uk/products/montblanc/montblanc-meisterst-ck-classique-rollerball/
 [tpa]: https://www.relay.fm/penaddict
 [lv]: http://www.cultpens.com/i/q/LM09887/lamy-vista-rollerball-pen
