@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.2
 
-script: bundle exec jekyll build && bundle exec htmlproof ./_site --disable-external
+script: bundle exec jekyll build && bundle exec htmlproofer ./_site --disable-external
 
 env:
   global:
