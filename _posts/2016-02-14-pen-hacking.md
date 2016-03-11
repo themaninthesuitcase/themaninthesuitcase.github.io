@@ -18,21 +18,21 @@ In the interest of cost, the Montblanc I used costs £310, I went with a more bu
 <img class="padded center"
 		alt="Lamy Vista and Montblanc refills"
 		src="/images/2016-02-14-pen-hacking/IMG_5826.jpg"
-	  srcset="/images/2016-02-14-pen-hacking/IMG_5826.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5826@2.jpg 2x" />
+	  srcset="/images/2016-02-14-pen-hacking/IMG_5826.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5826-2x.jpg 2x" />
 
 When you look at the Lamy M63 refill and the Montblanc standard refill you can see that the Lamy refill is a few mm longer, and also that the front of the refill is about 1mm longer on the Lamy.  The difference at the front can't be fixed without altering the pen permanently, at the rear we can use a spacer to fill the gap.
 
 <img class="padded center"
 		alt="Lamy M63 vs Montblanc standard refill"
 		src="/images/2016-02-14-pen-hacking/IMG_5827.jpg"
-	  srcset="/images/2016-02-14-pen-hacking/IMG_5827.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5827@2.jpg 2x" />
+	  srcset="/images/2016-02-14-pen-hacking/IMG_5827.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5827-2x.jpg 2x" />
 
 Once fitted to the pen you can see the difference in the 2 refills and how far they protrude from the pen.
 
 <img class="padded center"
  		alt="Montblanc protrusion"
  		src="/images/2016-02-14-pen-hacking/IMG_5829_5830.jpg"
- 	  srcset="/images/2016-02-14-pen-hacking/IMG_5829_5830.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5829_5830@2.jpg 2x" />
+ 	  srcset="/images/2016-02-14-pen-hacking/IMG_5829_5830.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5829_5830-2x.jpg 2x" />
 
 There's not a lot that can be done here, but it seems useable.  Time will tell on this one.
 
@@ -41,14 +41,14 @@ The gap at the back was filled using a piece cut from a ball point ink tube abou
 <img class="padded center"
 		alt="Spacer to hold refill"
 		src="/images/2016-02-14-pen-hacking/IMG_5831.jpg"
-	  srcset="/images/2016-02-14-pen-hacking/IMG_5831.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5831@2.jpg 2x" />
+	  srcset="/images/2016-02-14-pen-hacking/IMG_5831.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5831-2x.jpg 2x" />
 
 This completes the coversion!
 
 <img class="padded center"
  		alt="Ink by Montblanc, pen by Lamy!"
  		src="/images/2016-02-14-pen-hacking/IMG_5834.jpg"
- 	  srcset="/images/2016-02-14-pen-hacking/IMG_5834.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5834@2.jpg 2x" />
+ 	  srcset="/images/2016-02-14-pen-hacking/IMG_5834.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5834-2x.jpg 2x" />
 
 ## Is it worth it?
 Whilst I've not spent much time with the hacked pen I feel I can answer this one pretty easily.  Not really.
@@ -56,7 +56,7 @@ Whilst I've not spent much time with the hacked pen I feel I can answer this one
 <img class="padded center"
 		alt="Refill line widths"
 		src="/images/2016-02-14-pen-hacking/IMG_5833.jpg"
-	  srcset="/images/2016-02-14-pen-hacking/IMG_5833.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5833@2.jpg 2x" />
+	  srcset="/images/2016-02-14-pen-hacking/IMG_5833.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5833-2x.jpg 2x" />
 
 The line is a tiny bit thinner, not massively so, but noticeable.  If this is super important then it might be worth it.  For me it was all about trying to get that "first hit" feeling again and it just didn't happen.  Comparing the two refills I'd say the Lamy is a smoother writing experience, not by a lot, but it is.  More fuel for the Montblanc is overpriced fire.
 
