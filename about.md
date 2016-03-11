@@ -7,7 +7,7 @@ permalink: /about/
      title="Chris Pearson"
 	 alt="Chris Pearson"
 	 src="/images/About-150x150.jpg"
-	 srcset="/images/About-150x150.jpg, /images/About-150x150@2x.jpg 2x" />
+	 srcset="/images/About-150x150.jpg 1x, /images/About-150x150@2x.jpg 2x" />
 
 Welcome. I'm Chris Pearson, a husband, father and nerd living in the UK.
 
