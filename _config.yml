@@ -22,3 +22,6 @@ defaults:
         layout: post
 
 gems: [jekyll-paginate]
+
+exclude:
+    - vendor
