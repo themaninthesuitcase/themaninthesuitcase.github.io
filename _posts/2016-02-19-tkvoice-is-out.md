@@ -12,7 +12,7 @@ tags:
 
 <img class="tkvoiceicon center-block" src="/images/tkvoice/tkvoicelogo.svg" alt="TKVoice logo"/>
 
-After a much longer gestation than I thought[^1] TKVoice is now available on the App Store.
+After a much longer gestation than I thought[^tkv1] TKVoice is now available on the App Store.
 
 <a href="https://geo.itunes.apple.com/gb/app/tkvoice/id1079598806?mt=8&at=1000l88V&ct=website"><img class="center" src="/images/tkvoice/appstorebadge.svg" alt="Download on the App Store" /></a>
 
@@ -24,5 +24,5 @@ This isn't the end of the road and I already have several improvements planned b
 
 I hope you try this out as a more affordable alternative to other hardware units.  I look forward to hearing from users.
 
-[^1]: Apparently the first commit was on September 15th, 2015.
+[^tkv1]: Apparently the first commit was on September 15th, 2015.
 [tkv]: /tkvoice/

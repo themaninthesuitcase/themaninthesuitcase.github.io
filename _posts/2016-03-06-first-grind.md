@@ -9,7 +9,7 @@ tags:
 ---
 For many modern fountain pen users a custom nib grind is a right of passage.  This involves taking a fountain pen to some person who will grind away the nib to change it's shape and so writing characteristics.  This is generally to make the horizontal and vertical strokes different widths.
 
-Being a somewhat handy person, and happy to wreck stuff on occasion I decided to attempt this my self.  After all the nibmeisters[^1] had to learn some how.  
+Being a somewhat handy person, and happy to wreck stuff on occasion I decided to attempt this my self.  After all the nibmeisters[^nib1] had to learn some how.  
 
 The plan was to take a stock medium sized nib for my Kaweco Sport which I wasn't overly fond of, having replaced the nib for an extra fine, and to apply an italic grind to it.  This gives a thinner horizontal stroke to a broader vertical.
 
@@ -69,4 +69,4 @@ Whilst this was a fun way to spend a Sunday morning I can't see this being somet
 
 For those who care the ink is Visconti Blue.  The comparison test is via a dip which is why the after is a bit paler.
 
-[^1]: A nibmiester is the term used to refer to someone skilled at re-grinding a nib.
+[^nib1]: A nibmiester is the term used to refer to someone skilled at re-grinding a nib.
