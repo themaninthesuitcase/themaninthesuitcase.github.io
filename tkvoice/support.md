@@ -15,6 +15,6 @@ Feedback can be sent on one of two ways:
 I will try to read everything, but as this is a hobby project sometimes my family must come first.
 
 ## Donations
-TKVoice is provided free of charge.  However if you wish to support the on-going development of the app you can choose to [donate via paypal](https://www.paypal.me/tkvoice/4)).
+TKVoice is provided free of charge.  However if you wish to support the on-going development of the app you can choose to [donate via paypal](https://www.paypal.me/tkvoice/4).
 
 Please don't feel obliged to donate and the initial value is only a suggested one, feel free to reduce or increase it as you wish.
