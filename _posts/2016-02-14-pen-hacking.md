@@ -10,7 +10,7 @@ tags:
 ---
 It all started when I bought our wedding rings.  Everything was done I just needed to sign the receipt.  The manager hands me a [Montblanc Meisterstück Classique Rollerball][mbm].  That was it, cheap pens were ruined for me forever.
 
-It didn't take long but soon enough I was listening to [The Pen Addict][tpa] podcast and had bought several fountain pens[^1] and a sea of different inks.  Whilst I love using these they don't always play nice with cheap paper and the ink tends to "feather" a lot.  It was time to get a decent rollerball.
+It didn't take long but soon enough I was listening to [The Pen Addict][tpa] podcast and had bought several fountain pens[^hack1] and a sea of different inks.  Whilst I love using these they don't always play nice with cheap paper and the ink tends to "feather" a lot.  It was time to get a decent rollerball.
 
 In the interest of cost, the Montblanc I used costs £310, I went with a more budget friendly option: A [Lamy Vista][lv].  The refill that comes with it is a sort of blue-black and I wasn't keen on the colour. Whilst I could have just bought a black refill I decided to attempt a "pen hack" and fit the Montblanc refill that started this all.
 
@@ -60,7 +60,7 @@ Whilst I've not spent much time with the hacked pen I feel I can answer this one
 
 The line is a tiny bit thinner, not massively so, but noticeable.  If this is super important then it might be worth it.  For me it was all about trying to get that "first hit" feeling again and it just didn't happen.  Comparing the two refills I'd say the Lamy is a smoother writing experience, not by a lot, but it is.  More fuel for the Montblanc is overpriced fire.
 
-Whilst I don't like the blue I wanted black anyway. In hindsight a black M63 would have been cheaper[^2] and easier.  Unless you really must have the Montblanc refill, I would just use the Lamy.  The Montblanc black is good though, but without a Lamy refill to compare to I can't say if affects my conclusion.
+Whilst I don't like the blue I wanted black anyway. In hindsight a black M63 would have been cheaper[^hack2] and easier.  Unless you really must have the Montblanc refill, I would just use the Lamy.  The Montblanc black is good though, but without a Lamy refill to compare to I can't say if affects my conclusion.
 
 As the conversion works and I already have 2 refills, I'll just use the MB for now but once they run out I'll be getting the correct M63.
 
@@ -78,5 +78,5 @@ If anyone has a need for some Montblanc rollerball refills, I have 2 sat on a sh
 [tpa]: https://www.relay.fm/penaddict
 [lv]: http://www.cultpens.com/i/q/LM09887/lamy-vista-rollerball-pen
 
-[^1]: Current count looks like 7, though I have 1 more coming some time next week.
-[^2]: An M63 refill is £2.40 RRP, but Cult Pens currently sell them for £1.98. The Montblanc refill was £10 for 2 but £12 seems the norm.
+[^hack1]: Current count looks like 7, though I have 1 more coming some time next week.
+[^hack2]: An M63 refill is £2.40 RRP, but Cult Pens currently sell them for £1.98. The Montblanc refill was £10 for 2 but £12 seems the norm.

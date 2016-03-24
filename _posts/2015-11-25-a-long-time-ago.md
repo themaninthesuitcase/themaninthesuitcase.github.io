@@ -19,7 +19,7 @@ The main things people are often surprised to learn is that the costumes worn by
 
 Until recently.
 
-Enter [Anovos](http://www.anovos.com/). A  replica prop company started by fans, who now have a few large franchises under their belt[^1] and have managed to get a Star Wars license.
+Enter [Anovos](http://www.anovos.com/). A  replica prop company started by fans, who now have a few large franchises under their belt[^altag1] and have managed to get a Star Wars license.
 
 In around May 2015 I became aware of a preorder at a huge discount on RRP if you were prepared to wait until winter for delivery.  In June I had the funds and so preordered what had become a bucket list item.  I ordered my first Storm Trooper armour.
 
@@ -27,4 +27,4 @@ I won't see this armour until December so why am I writing about this now? Parts
 
 All of this is stuff I want to write about so I am writing this as an introduction to my journey to become a member of the 501st legion.
 
-[^1]: The biggest two being Star Trek and Battlestar Galactica. Both of which seem to have been well received by the costuming community, though famously delivered late. It also looks like they will soon be offering a Ghost Busters line, proton pack anyone?
+[^altag1]: The biggest two being Star Trek and Battlestar Galactica. Both of which seem to have been well received by the costuming community, though famously delivered late. It also looks like they will soon be offering a Ghost Busters line, proton pack anyone?
