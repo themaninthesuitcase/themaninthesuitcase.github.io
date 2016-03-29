@@ -19,8 +19,8 @@ I listen to a lot of Apple centric podcasts ([ATP](http://atp.fm), [Connected](h
 The problem seems to boil down to the 3rd party apps aren't really very good which reduces the watch to a glorified fitness band with notifications. Whilst the consensus seems to be that the notifications and fitness is great I'm not 100% sold that they are going to change my life.
 
 ##The dilemma of choice
-Ultimately this comes down to a choice. Do I get an Apple Watch or do I stay with my Tissot, or another analogue watch for that matter. The choice is further complicated by the fact there is no one Apple Watch to pick from.  In an ideal world I'd be picking up a stainless steel Apple Watch with the link bracelet tomorrow. However costing more than an 13" MacBook Air[^1] I cannot in any good conscience buy one.
+Ultimately this comes down to a choice. Do I get an Apple Watch or do I stay with my Tissot, or another analogue watch for that matter. The choice is further complicated by the fact there is no one Apple Watch to pick from.  In an ideal world I'd be picking up a stainless steel Apple Watch with the link bracelet tomorrow. However costing more than an 13" MacBook Air[^watch1] I cannot in any good conscience buy one.
 
 This leaves the sport, and I don't think that is the watch I want.
 
-[^1]: As of writing the 11" MacBook Air starts at £749, the 13" starts at £849. The Apple Watch of choice is a 42mm stainless steel with the link bracket at £859.
+[^watch1]: As of writing the 11" MacBook Air starts at £749, the 13" starts at £849. The Apple Watch of choice is a 42mm stainless steel with the link bracket at £859.
