@@ -1,10 +1,8 @@
 ---
 title: TKVoice - Hardware
-layout: default
+layout: tkvoice
 permalink: /tkvoice/hardware/
 ---
-{% include tkvoicemenu.html %}
-
 # Hardware
 
 To get the most from TKVoice you will want to use an external microphone and speaker.
