@@ -5,6 +5,8 @@ permalink: /tkvoice/support/
 ---
 {% include tkvoicemenu.html %}
 
+# Support
+
 TKVoice is a hobby project and is done in my spare time around my family life.  
 
 Feedback can be sent on one of two ways:
