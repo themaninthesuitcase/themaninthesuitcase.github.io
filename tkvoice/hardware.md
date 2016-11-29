@@ -5,9 +5,13 @@ permalink: /tkvoice/hardware/
 ---
 # Hardware
 
+<p class="text-muted"><small>Amazon UK Links on this page are affiliate links.</small></p>
+
+TKVoice requires IOS 9 or above.  This means you'll need a compatible IOS device such as an iPhone 4S (or above) or an iPod Touch capable of running at least IOS 9.
+
 To get the most from TKVoice you will want to use an external microphone and speaker.
 
-At the time of writing there is no support for Bluetooth but this is hoped to be added in future.
+At the time of writing there is no support for Bluetooth and this is unlikely to be added in future.
 
 You will need three components: A microphone, a speaker and a splitter cable.
 
@@ -59,5 +63,3 @@ Aker on [Amazon UK](http://www.amazon.co.uk/gp/product/B007OSRTNW/ref=as_li_tl?i
 
 ## Miscellaneous
 You will also need an assortment of short cables and adapters to link this all up.  My setup uses some short right angle adapters to allow for better cable routing and also a short 3.5mm Jack to Jack cable to join the speaker to the splitter.  Try to avoid the cheapest of the cheap but there's no need to spend a fortune here.  It might also be worth having a spare or two of the key items incase you lose a cable or one goes bad.
-
-<p class="text-muted"><small>Amazon UK Links on this page are affiliate links.</small></p>
