@@ -8,7 +8,7 @@ tags:
  - advent
  - christmas
 ---
-For the past few years I've been getting the Lego Star Wars Advent calendars.  Last year I did a daily post on [Instagram][ig] of the prize.  These aren't super high quality, just 60 seconds effort after I built it.
+For the past few years I've been getting the [Lego Star Wars Advent calendars][azn].  Last year I did a daily post on [Instagram][ig] of the prize.  These aren't super high quality, just 60 seconds effort after I built it.
 
 This year I did the same so I thought I'd do a blog run down of all the sets.
 
@@ -98,3 +98,4 @@ This year I did the same so I thought I'd do a blog run down of all the sets.
 
 
 [ig]: https://www.instagram.com/maninsuitcase/
+[azn]: http://amzn.to/2gE53Td
