@@ -1,0 +1,13 @@
+---
+title: Archive
+permalink: /archive/
+layout: page
+---
+{% for post in site.posts  %}
+  <div>
+    <p>
+      <a href="{{post.url}}"><span class="h4">{{ post.title }}</span></a> {{ post.date | date: "%B %-d, %Y" }}
+      {% if post.description %}<br /><span class="text-muted">{{ post.description }}</span> {% endif %}
+    </p>
+  </div>
+{% endfor%}
