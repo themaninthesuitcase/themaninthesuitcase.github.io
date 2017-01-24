@@ -1,5 +1,6 @@
 ---
 title: Developing for the fruit company
+description: I registered as an Apple developer.
 catagories:
  - tech
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Pen Hacking
+description: Adding glitter to a cheap pen.
 catagory:
  - pens
 tags:

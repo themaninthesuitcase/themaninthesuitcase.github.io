@@ -1,5 +1,6 @@
 ---
 title: First Grind
+description: Or how to ruin a pen in easy steps.
 catagory:
  - pens
 tags:
