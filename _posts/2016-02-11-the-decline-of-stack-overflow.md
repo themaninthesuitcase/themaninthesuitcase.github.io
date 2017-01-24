@@ -1,5 +1,6 @@
 ---
 title: The decline of Stack Overflow
+description: I'm OG SO.
 catagories:
  - tech
 tags:
