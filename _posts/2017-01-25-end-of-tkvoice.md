@@ -22,7 +22,7 @@ With the removal of the headphone jack on the iPhone 7 the already complex hardw
 
 I originally wrote this to use on an old 5s that was sat in my draw and figured others would do the same.  What actually happened was people were using their daily drive phone or buying an old phone specially!  This made me feel more obliged to ensure that the system worked for them.
 
-Since I started TKVoice the voice changer landscape has changed a lot.  When I started there was Rom-FX and icomm.  Now there's a competing IOS app [TrooperTalk][tt], [TRamp][tramp] has come out with an excellent all in one device[^endtkv1], and there's even a DIY kit in [TKTalkie][tkt]!  These give several great options for many budgets.
+Since I started TKVoice the voice changer landscape has changed a lot.  When I started there was Rom-FX or icomm and not much else.  Now there's a competing IOS app [TrooperTalk][tt], [TRamp][tramp] has come out with an excellent all in one device[^endtkv1], and there's even a DIY kit in [TKTalkie][tkt]!  These give several great options for many budgets.
 
 Existing users will be able to continue to use the app until they do an upgrade that kills the app.  IOS 10 made the app misbehave, I suspect IOS 11 in September will do the same.  I plan on leaving my trooping iPhone running, I think, IOS 9 so it won't be an issue.
 
