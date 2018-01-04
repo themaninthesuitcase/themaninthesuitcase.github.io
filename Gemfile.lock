@@ -78,11 +78,7 @@ GEM
     html-pipeline (2.7.1)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-<<<<<<< HEAD
     html-proofer (3.7.6)
-=======
-    html-proofer (3.7.5)
->>>>>>> feb449445eaceb1ee0f3c4eef1b98d8e8af2cc5a
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
       colorize (~> 0.8)
@@ -207,24 +203,14 @@ GEM
     mini_portile2 (2.3.0)
     minima (2.1.1)
       jekyll (~> 3.3)
-<<<<<<< HEAD
     minitest (5.11.1)
-=======
-    minitest (5.10.3)
->>>>>>> feb449445eaceb1ee0f3c4eef1b98d8e8af2cc5a
     multipart-post (2.0.0)
     net-dns (0.8.0)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
-<<<<<<< HEAD
     octokit (4.8.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     parallel (1.12.1)
-=======
-    octokit (4.7.0)
-      sawyer (~> 0.8.0, >= 0.5.3)
-    parallel (1.12.0)
->>>>>>> feb449445eaceb1ee0f3c4eef1b98d8e8af2cc5a
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -236,11 +222,7 @@ GEM
       i18n
     rubyzip (1.2.1)
     safe_yaml (1.0.4)
-<<<<<<< HEAD
     sass (3.5.4)
-=======
-    sass (3.5.3)
->>>>>>> feb449445eaceb1ee0f3c4eef1b98d8e8af2cc5a
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -267,8 +249,4 @@ DEPENDENCIES
   jekyll-paginate
 
 BUNDLED WITH
-<<<<<<< HEAD
    1.16.1
-=======
-   1.16.0
->>>>>>> feb449445eaceb1ee0f3c4eef1b98d8e8af2cc5a
