@@ -47,3 +47,8 @@ img.tkvoiceicon {
 	border-width: 1px;
 	border-color: #000;
 }
+
+img[alt=""],
+img:not([alt]) {
+	border: 5px dashed #c00;
+}
