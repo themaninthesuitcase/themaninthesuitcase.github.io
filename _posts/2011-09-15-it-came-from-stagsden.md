@@ -3,9 +3,9 @@ title: "It came from Stagsden!"
 catagories:
  - photography
 tags:
-- 3leggedthing
-- gear
-- tripod
+ - 3leggedthing
+ - gear
+ - tripod
 ---
 Thanks to a superb put down by yours truly on [Facebook][3ltPutdown] I am now the proud owner of a 3 Legged Thing Kirk X2a tripod.
 
