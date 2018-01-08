@@ -19,7 +19,7 @@ I have tried to make this as simple as possible to use with only 4 options to se
 
 This is a work in progress and I hope to make this easier to use and more powerful as time passes.
 
-You can get the plug-in from ~~Google code:~~ [Github][gimp-startrail-compositor]
+You can get the plug-in from [Github][gimp-startrail-compositor]
 
 ## Update
 About the time I released this some new multiplatform software was released called [Starstax].
