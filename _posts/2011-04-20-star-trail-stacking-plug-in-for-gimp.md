@@ -7,6 +7,7 @@ tags:
  - gimp
  - astrophotography
  - startrail
+ - software
 ---
 <img class="padded center"
 		alt="GIMP Star trail"

@@ -7,6 +7,7 @@ tags:
  - gimp
  - astrophotography
  - startrail
+ - software
 ---
 I have released version 1.3 of my GIMP startrail plugin.
 
