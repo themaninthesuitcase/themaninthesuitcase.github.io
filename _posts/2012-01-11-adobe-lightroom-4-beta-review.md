@@ -18,14 +18,12 @@ As stated in the title, this is a beta, so there **will** be dragons.  To help 
 
 <img class="padded center"
 		alt="Lightroom 4 Beta Basic Panel"
-    width="500px"
 		src="/images/2012-01-11-adobe-lightroom-4-beta-review/Screen-shot-2012-01-11-at-21.38.46.png" />
 
 Potentially one of the biggest changes is Adobe have updated the basic panel in the develop module.  They have removed brightness and renamed a few other sliders.  The result is a much simpler interface that I feel works well and is much more intuitive in use.
 
 <img class="padded center"
 		alt="Updated Process Engine Option"
-    width="500px"
 		src="/images/2012-01-11-adobe-lightroom-4-beta-review/Screen-shot-2012-01-11-at-21.41.43.png" />
 
 Images edited using the old panel (still accessible using the old 2010 process method) will map their settings into the new panel so you won't loose edits when you update into the new 2012 processing engine.
@@ -40,7 +38,6 @@ One of a few true new features in Lightroom 4 is soft proofing, previously only
 
 <img class="padded center"
 		alt="The Soft Proof Screen"
-    width="500px"
 		src="/images/2012-01-11-adobe-lightroom-4-beta-review/Screen-shot-2012-01-11-at-21.46.46.png" />
 
 Having never used it before I was unsure what soft proofing was and how it would help me, especially as I don't colour calibrate my monitors.  However after watching the [Adobe TV video][adobeSoftProof] on the subject I can see this being a useful feature for people who print a lot and are often disappointed with the results or have troubles with jpegs when exported for web viewing.
@@ -51,7 +48,6 @@ For me this is the biggest new feature in version 4.  Lightroom now supports GP
 
 <img class="padded center"
 		alt="The Map Module"
-    width="500px"
 		src="/images/2012-01-11-adobe-lightroom-4-beta-review/Screen-shot-2012-01-11-at-21.48.35.png" />
 
 If you have a camera with GPS you need do no more, your images will show on the maps and you're done.  If you don't there's a couple of ways to add this GPS data after the fact.
@@ -64,7 +60,6 @@ Personally I like the idea of an external GPS unit as then I am not using camera
 
 <img class="padded center"
 		alt="Remove Location Option on Export"
-    width="500px"
 		src="/images/2012-01-11-adobe-lightroom-4-beta-review/Screen-shot-2012-01-11-at-21.54.06.png" />
 
 The main concern I had with GPS tagging was that of privacy. While I might want to tag my shots of the kids were at home or where that rare bird was it doesn't mean I want to share this information with the world. Fortunately there's a single check box in the export wizard which will remove all location information from the exported image keeping this data private.

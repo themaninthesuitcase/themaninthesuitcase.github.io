@@ -11,7 +11,6 @@ This is a quick review of the Tenpa 1.22x magnifying eye piece for Nikon cam
 
 <img class="padded center"
 		alt="Tenpa 1.22x on Nikon D50"
-    width="500px"
 		src="/images/2012-02-1-viewfinder-magnifiers-review/IMG_0110.jpg" />
 
 This was a 2nd attempt at a magnified view after a failed attempt using genuine Nikon parts.  The basics of this can be found [here][fmForumsMagMod]. Though be warned it's harder than it looks and it's easy to get glue on the eye piece as I found out.
@@ -27,7 +26,7 @@ Here's a  few shots taken using my iPhone to show the sort of magnification on 
 <div class="row">
   <div class="col-sm-6">
     <div class="thumbnail">
-      <img src="/images/2012-02-1-viewfinder-magnifiers-review/IMG_0105.jpg"  width="235px" alt="No Eyepeice">
+      <img src="/images/2012-02-1-viewfinder-magnifiers-review/IMG_0105.jpg" width="235px" alt="No Eyepeice">
       <div class="caption">
         <p>No Eyepeice</p>
       </div>
@@ -45,7 +44,7 @@ Here's a  few shots taken using my iPhone to show the sort of magnification on 
 
   <div class="col-sm-6">
     <div class="thumbnail">
-      <img src="/images/2012-02-1-viewfinder-magnifiers-review/IMG_0107.jpg"  width="235px" alt="Tenpa eyepiece">
+      <img src="/images/2012-02-1-viewfinder-magnifiers-review/IMG_0107.jpg" width="235px" alt="Tenpa eyepiece">
       <div class="caption">
         <p>Tenpa eyepiece</p>
       </div>

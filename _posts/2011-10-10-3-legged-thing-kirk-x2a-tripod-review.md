@@ -12,7 +12,6 @@ First a bit of disclosure: [I won this tripod in a contest][contest]. While this
 
 <img class="padded center"
 		alt="3 Legged Thing B3 head"
-    width="500px"
 		src="/images/2011-10-10-3-legged-thing-kirk-x2a-tripod-review/DSC_0043.jpg" />
 
 Named after Kirk Hammet of Metallica this differently named tripod from [3 Legged Thing][3lt] sits at the top of their non carbon tripod range. This one also came with the B3 Arca compatible ball head and a rather nice bag.
@@ -23,7 +22,6 @@ The legs use twist locks which I was sceptical of to begin with as my cheap mono
 
 <img class="padded center"
 		alt="Leg Lock"
-    width="500px"
 		src="/images/2011-10-10-3-legged-thing-kirk-x2a-tripod-review/DSC_0032.jpg" />
 
 Stability wise I really can't fault the Kirk. Even at full height with the column up there's very little movement. For me (about 5' 10" tall) I do need to raise the column a small amount to use the camera at eye height but this is plenty solid. You can also remove the centre column and screw the top plate direct into the spider and get really low if needed, but allow 2-3 mins to do that.
@@ -32,15 +30,12 @@ One leg stands out as it comes with a neoprene foam grip. On a cold day you real
 
 <img class="padded center"
 		alt="The Kirk in action"
-    width="500px"
 		src="/images/2011-10-10-3-legged-thing-kirk-x2a-tripod-review/IMG_20111002_181201.jpg" />
 
 The B3 head is rated to the same 12Kg as the legs and is a nice and substantial item. I went for a nice moondust finish which is sort of golden in colour, but there's a choice of 4 colours right now, so go for something that's not black!
 
 <img class="padded center border"
 		alt="3 Legged Thing B3"
-    width="500px"
-    border="1px solid #000"
 		src="/images/2011-10-10-3-legged-thing-kirk-x2a-tripod-review/DSC_0039.jpg" />
 
 The friction dial has proved to be excellent and gives a good range of damping from none up to a full lock, letting you get it just so with ease. The lock knob is a similar size so I have confused the two a few times but with time I might get more used to this. There is also a smaller pan lock knob. Once slacked off the pan is nicely damped but it does allow a very small wobble so I'd recommend tightening it back up between shots if this may be a problem.

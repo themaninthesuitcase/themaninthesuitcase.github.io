@@ -10,7 +10,6 @@ tags:
 
 <img class="padded center"
 		alt="Bushy Park Stag"
-    width="500px"
 		src="/images/2012-02-29-bushy-park-stag/DSC_0042.jpg" />
 
 One of the many fallow deer stags that stalks Bushy Park in Surrey.  This was taken during the rut (deer mating season) which usually kicks off in September and lasts 1-3 months.

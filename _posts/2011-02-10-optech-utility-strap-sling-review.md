@@ -13,8 +13,7 @@ When I got my D50 it came with the standard Nikon strap. This quickly got on my 
 After looking at the Black Rapid and Sun sniper I wasn't overly keen on the tripod mount as it meant I couldn't leave my quick release plate in place. After a few questions I went for the [Op/Tech Utility sling][OpTechUtilityStrap] and ordered from [WEX Photograpic][WexOptechStrap] for about £35 delivered, which is also cheaper than both the other 2 alternatives. *Update: This strap is currently £19.99 on WEX, this is almost half what I paid and is worth remembering when you read the rest of the review.*
 
 <img class="padded center"
-		alt="Op/Tech Utility Sling"
-    width="500px"
+		alt="Op/Tech Utility Sling"  
 		src="/images/2011-02-10-optech-utility-strap-sling-review/DSC_0012_20110210.jpg" />
 
 The strap it's self is well made, a few loose thread ends but nothing overly concerning. The clips slide smoothly and have a good solid connection that inspire trust. The shoulder pad is made of neoprene so is good and grippy and doesn't move around when loaded, it can move a bit when using the camera but if you set the bottom stop right it should go back into place when you lower the camera again.
@@ -25,7 +24,6 @@ The main reason I went for this strap was rather than using a tripod mount it co
 
 <img class="padded center"
 		alt="Op/Tech Utility Sling"
-    width="500px"
 		src="/images/2011-02-10-optech-utility-strap-sling-review/DSC_0014_20110210.jpg" />
 
 In use I soon found a big nagging issue, the strap was always in my face. This was especially problematic when shooting portrait where not only was it in my face it was also usually over the viewfinder. After several weeks I had enough and put the connector onto my QR plate (not recommended by any plate supplier by the way) and suddenly the issue was fixed. This shows exactly why the main sling straps use the tripod mount, it's the right place for this style strap.
