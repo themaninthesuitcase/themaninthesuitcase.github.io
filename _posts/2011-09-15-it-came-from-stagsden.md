@@ -1,5 +1,5 @@
 ---
-title: "It came from Stagsden!"
+title: "It Came From Stagsden!"
 catagories:
  - photography
 tags:

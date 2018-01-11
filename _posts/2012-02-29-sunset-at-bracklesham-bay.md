@@ -1,5 +1,5 @@
 ---
-title: "Sunset at Bracklesham Bay"
+title: "Sunset At Bracklesham Bay"
 catagories:
  - photography
 tags:

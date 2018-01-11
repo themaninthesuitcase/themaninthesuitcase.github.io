@@ -1,5 +1,5 @@
 ---
-title: "A look at some fancy cars"
+title: "A Look At Some Fancy Cars"
 catagories:
  - photography
 tags:
