@@ -3,6 +3,7 @@ title: "A Promising Start To Spring"
 catagories:
  - photography
 tags:
+ - swt
  - fox
  - swt
  - nature

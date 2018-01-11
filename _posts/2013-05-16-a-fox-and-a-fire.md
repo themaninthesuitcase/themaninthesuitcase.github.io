@@ -3,6 +3,7 @@ title: "A Fox And A Fire"
 catagories:
  - photography
 tags:
+ - swt
  - deer
  - fox
  - nature

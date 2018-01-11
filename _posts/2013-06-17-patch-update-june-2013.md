@@ -1,5 +1,11 @@
 ---
 title: "Patch Update - June 2013"
+catagories:
+ - photography
+tags:
+ - swt
+ - deer
+ - nature
 ---
 Whilst I haven't blogged about it in a while I have been making regular visits to the local nature reserve over the last month.  June seems to mark the start of a quiet period that I noted last year, the last few visits have revealed very little to point a lens at.
 

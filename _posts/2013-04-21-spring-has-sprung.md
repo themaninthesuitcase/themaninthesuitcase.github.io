@@ -3,6 +3,7 @@ title: "Spring Has Sprung"
 catagories:
  - photography
 tags:
+ - swt
  - butterfly
  - deer
  - fox

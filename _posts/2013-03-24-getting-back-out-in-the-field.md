@@ -3,6 +3,7 @@ title: "Getting Back Out In The Field"
 catagories:
  - photography
 tags:
+ - swt
  - owl
  - deer
  - nature
