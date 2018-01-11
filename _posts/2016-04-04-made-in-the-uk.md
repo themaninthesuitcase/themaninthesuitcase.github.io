@@ -1,5 +1,5 @@
 ---
-title: Made in the UK
+title: Made In The UK
 description: Why are we not proud of our country.
 catagories:
  - personal

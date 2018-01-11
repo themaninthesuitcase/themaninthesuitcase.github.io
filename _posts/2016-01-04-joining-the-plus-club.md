@@ -1,5 +1,5 @@
 ---
-title: Joining the Plus club
+title: Joining The Plus club
 description: I bought a clown sized phone, and I love it.
 catagories:
  - tech

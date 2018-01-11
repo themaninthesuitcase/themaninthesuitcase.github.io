@@ -1,5 +1,5 @@
 ---
-title: "Sorry Casey, I bottled it..."
+title: "Sorry Casey, I Bottled It..."
 description: "The start of the journey."
 categories:
  - personal

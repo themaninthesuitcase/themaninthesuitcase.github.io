@@ -1,5 +1,5 @@
 ---
-title: The one about watches
+title: The One About Watches
 description: I want an Apple watch, or do I?
 categories:
  - tech
