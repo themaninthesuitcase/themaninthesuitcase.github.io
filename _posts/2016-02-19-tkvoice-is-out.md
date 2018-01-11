@@ -1,5 +1,5 @@
 ---
-title: TKVoice is out!
+title: TKVoice Is Out!
 description: I made an App!
 catagories:
  - tech

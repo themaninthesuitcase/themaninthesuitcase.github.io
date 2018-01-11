@@ -1,5 +1,5 @@
 ---
-title: I still have an "ancient" MacBook Pro
+title: I Still Have An "Ancient" Mac Book Pro
 description: I use a non-Retina MacBook Pro like an animal.
 link: https://marco.org/2016/01/04/md101ll-a
 catagories:
