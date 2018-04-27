@@ -1,5 +1,6 @@
 ---
 title: Getting Back Into It
+description: I need to start using all this stuff in my house again.
 catagories:
  - photography
 tags:
