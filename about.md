@@ -11,11 +11,9 @@ permalink: /about/
 
 Welcome. I'm Chris Pearson, a husband, father and nerd living in the UK.
 
-By day I work as a software programmer in the finance industry using Microsoft .NET technologies. By night I am an Apple fan boy, LEGO enthusiast and mediocre sci-fi nerd.
+By day I work as a software programmer using Microsoft .NET technologies. By night I am a maker, cosplayer/costumer, LEGO enthusiast and mediocre sci-fi and film nerd.
 
 In 2016 I became a member of the UK Garrison and 501st Legion as a Stormtrooper.  As part of the UK Garrison I now use my trooper to help raise money for charity and bring enjoyment to fans old and young.  
-
-For more info visit [tk10911.co.uk](http://www.tk10911.co.uk).
 
 ## About this site
 
