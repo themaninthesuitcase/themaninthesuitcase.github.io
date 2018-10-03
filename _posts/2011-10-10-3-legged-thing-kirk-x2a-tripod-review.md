@@ -14,6 +14,8 @@ First a bit of disclosure: [I won this tripod in a contest][contest]. While this
 		alt="3 Legged Thing B3 head"
 		src="/images/2011-10-10-3-legged-thing-kirk-x2a-tripod-review/DSC_0043.jpg" />
 
+<!-- more -->
+
 Named after Kirk Hammet of Metallica this differently named tripod from [3 Legged Thing][3lt] sits at the top of their non carbon tripod range. This one also came with the B3 Arca compatible ball head and a rather nice bag.
 
 First impressions of this tripod where it was very well made. All the machining seemed nice and clean and the anodising was certainly top notch. While not the carbon fibre that so many desire the whole package is still very light, especially when compared to similarly priced tripod from another major player.

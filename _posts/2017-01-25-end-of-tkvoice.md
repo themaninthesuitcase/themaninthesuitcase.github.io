@@ -14,6 +14,8 @@ A week or so ago I got an email from Apple asking me to renew my Developer accou
 
 This essentially means as of Jan 27th, 2017 TKVoice will die.
 
+<!-- more -->
+
 I was a lot more upset about this than I thought I would be.  Whilst I've not worked on the app in a while and the support side isn't exactly super fun, hearing that people enjoy the app and like it was great and always made my day.
 
 The renewal fee wasn't the only reason I have called it a day, I also haven't really got anything else I wanted to do to the app and couldn't make myself work on it anymore.

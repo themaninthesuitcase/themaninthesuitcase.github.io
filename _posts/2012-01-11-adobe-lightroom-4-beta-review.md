@@ -14,6 +14,8 @@ Adobe have made a few changes to existing features and also add some new ones,
 
 As stated in the title, this is a beta, so there **will** be dragons.  To help keep support issues down Adobe don't let you convert old catalogues.  Instead they recommend you make copies of some files and then import and work on those, never work on the originals as they won't be there to pick up the pieces when it all goes wrong.
 
+<!-- more -->
+
 ## Basic Panel and Rendering engine
 
 <img class="padded center"

@@ -18,6 +18,8 @@ This time was different though as it was the first time I took the 300mm 2.8 VR 
 		alt="Juvenile Coot"
 		src="/images/2013-06-27-zsl-whipsnade-zoo-morning-visit/CJP20130626-5223.jpg" />
 
+<!-- more -->
+
 The first decent target was the juvenile Coot pictured above.  This was seen in a nest in a largish pond that was home to the storks and pelicans.  I took shots from a few angles and tried to get as low as I could, resulting in this image. Further up the pond we saw one of the adult coots fighting with a pair of moorhen, clearly it had gotten too close to their nest.
 
 The next pond over is home to a large group of flamingo.  I had an image in mind, while a fairly common image to take it was one I wanted to capture.

@@ -18,6 +18,8 @@ As I was getting ready to leave I decided to take a 2nd look into the first fiel
 		alt="SWT Manor Farm Roe Deer"
 		src="/images/2013-03-24-getting-back-out-in-the-field/CJP20130323-2572.jpg" />
 
+<!-- more -->
+
 A barn owl was hovering over the path on the far side of the field. I managed to empty the buffer on it before it landed on the fence behind the hedge out of sight.  Flipping through the images I could see none of them are anything overly special but the sequence of the bird looked quite impressive.
 
 <img class="padded center"

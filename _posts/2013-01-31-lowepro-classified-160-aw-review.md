@@ -13,6 +13,8 @@ This seemed ideal based on the specs. Room for a pro body, I used a gripped Niko
 
 [Lowepro product page link][classified160aw]
 
+<!-- more -->
+
 The first thing that struck me about that bag was the odd way of getting into the camera section, the product images did show this but I managed to miss the fact the flap wasn't open.  Normally you'd expect this under the flap, but on this bag it's a large zip along the top of the bag, the flap just covers 2 inner pockets for things like pens, a notepad, memory and so on.
 
 The camera section has an expander zip under the flap which means it can take a pro/gripped body or a non-gripped body and not have lots of slop. The reality of the matter is a gripped body is tight, and can be a pain to get in or out unless the zips undone all the way. A normal body fits fine and a proper pro (D3/4 or 1D etc.) may fit a bit better as they are not quite as big as a gripped standard body.  The next size up, the 250,  would probably also fix this issue.

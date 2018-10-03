@@ -15,6 +15,8 @@ This is a quick review of the Tenpa 1.22x magnifying eye piece for Nikon cam
 
 This was a 2nd attempt at a magnified view after a failed attempt using genuine Nikon parts.  The basics of this can be found [here][fmForumsMagMod]. Though be warned it's harder than it looks and it's easy to get glue on the eye piece as I found out.
 
+<!-- more -->
+
 I ordered my kit from [Roxsen on eBay][roxsenEbay] for £29.20 delivered from Hong Kong.  This makes it more expensive than a DK-17m and DK-22 sourced from a UK company.  However the big plus is you get a nice big solid adapter to mount the lens to the camera, along with a big rubber eye cup like the one some pros seem to like for their D3s.
 
 The lens it's self is clearly a rip of of the Nikon DK-17m, with a few minor differences.  The lens it's self sits proud of the mount body meaning you have to be careful putting it down, but it does make it easier to clean. This comes fitted with a rubber eye guard similar to the Nikon part and once mounted I can't tell the difference.  The optical quality seems to be identical as best as I can tell, which was honestly quite a shock.  Both vignette slightly, especially at the bottom of the frame meaning the flash and focus indicators are hard to see with out moving my eye up.  That said I haven't found this to be an issue yet, time will tell on this one.

@@ -17,6 +17,8 @@ This weekend I decided to do something about it and visit one of the locations o
 		alt="A robin sits on a vine covered stree opposite the bird hide at RHS Wisley Gardens"
 		src="/images/2014-04-14-flood-damage-to-the-local-river/CJP20140413-8145.jpg" />
 
+<!-- more -->
+
 The river spur the hide is on has dwindled and is now stagnant and devoid of movement. The wildlife was sparse with the odd robin, chiffchaff and a blackbird was about all that was seen.  What was very clear was that the water wasn't going to be home to a Kingfisher.  The water was barely moving, very dirty and showing little sign of life.  There were a number of possible fishing perches but none of these showed any white marks that would show them as having been a perch to a Kingfisher, at least not any time in the recent past.
 
 <img class="padded center"

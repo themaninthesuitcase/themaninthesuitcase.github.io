@@ -12,6 +12,8 @@ After getting my D50 I was pretty skint but still needed a bag.  After a bit of
 
 The Verso bag offers 2 modes, it can be used as either a back pack or a shoulder bag.  This combined with the low price made it stand out from the crowd and was quickly ordered.
 
+<!-- more -->
+
 Delivery was pretty fast, and the bag arrived in a great big thick plastic bag which was perfectly adequate for the task.  Once open I discovered a problem when I went to attach the strap while in shoulder mode.  The spring inside one of the clips pinged off and wouldn't go back in, no matter how hard I tried to persuade it to.  A quick email to Joe at RS and I was promised a new strap in the next post.  It arrived a day later, 1st class post.  That's service.
 
 The main compartment is reasonably sized with 3 dividers in an H pattern that can be moved on velcro strips.  I can fit in my D50 with a lens fitted on one side, the other lens and a flash in the middle and either my op/tech strap or 2nd SLR (Nikon D40x) in the other side.  So plenty of room unless your lens collection is comprised of big aperture and long lenses .  The padding is pretty thick and takes knocks reasonably well.

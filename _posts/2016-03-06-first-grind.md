@@ -21,6 +21,8 @@ To ensure I wasn't making a complete mess of things a quick google was done and 
 		src="/images/2016-03-06-first-grind/CJP20160306-16599.jpg"
 	  srcset="/images/2016-03-06-first-grind/CJP20160306-16599.jpg 1x, /images/2016-03-06-first-grind/CJP20160306-16599-2x.jpg 2x" />
 
+<!-- more -->
+
 The equipment required isn't expensive and I actually had all of it already.  To do the actual grinding I used a 250/1000 grit water stone designed to sharpen tools.
 
 I simply followed along the steps initially using only the 1000 grit but then moving to use both the 1000 and the courser 250 once I grew bolder.

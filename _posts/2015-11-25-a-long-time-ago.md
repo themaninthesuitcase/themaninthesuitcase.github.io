@@ -16,6 +16,8 @@ Each year there would be a theme and one always stands out to me.  As we approac
 
 At the time I knew little about this but in the years since, I've come to learn they would almost certainly been members of the [501st Legion](http://www.501st.com/), a costuming group dedicated to the dark side Star Wars characters.  Ever since I discovered it's existence I knew this was something I wanted to do.
 
+<!-- more -->
+
 The main things people are often surprised to learn is that the costumes worn by the legion are not bought or old props but fan made.  So acquiring  your own costume was an expensive and time consuming affair.
 
 Until recently.

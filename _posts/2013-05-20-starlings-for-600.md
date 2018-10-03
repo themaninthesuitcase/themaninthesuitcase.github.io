@@ -17,6 +17,8 @@ When I got home last night I noticed that there was a starling nest in under the
 
 I quickly went in grabbed the gear and put on the 2x.  I also set up my 3 Legged Thing Dave at almost full height.  This proved to be a VERY precarious setup so I can't wait to get the Gitzo and Wimberley now.
 
+<!-- more -->
+
 I kept an eye on the spot I had seen the chick and took shots as it appeared from the nest.   With the combo of (wobbly) tripod and VR I tried to keep the shutter speed over about 1/200 ish as I wasn't needing to freeze the parents motion.  This meant for a while I could keep the aperture stopped down to f7.1 to grab back some sharpness the teleconverter stole.
 
 <img class="padded center"

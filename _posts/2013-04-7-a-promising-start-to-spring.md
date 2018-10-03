@@ -16,6 +16,8 @@ I spent another evening over at the reserve this evening.  It would seem I am s
 
 The lone female was feeding on the grass near the river. She moved closer at times but eventually drifted to the far side of the field.
 
+<!-- more -->
+
 Here she was joined by the single buck I've seen recently with the lop sided antlers.
 
 <img class="padded center"

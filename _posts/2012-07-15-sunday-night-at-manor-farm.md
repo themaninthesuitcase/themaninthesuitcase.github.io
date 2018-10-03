@@ -16,6 +16,8 @@ There have been reports of some great wildlife in the evenings here so I wanted 
 		alt="A roe deer in the long grass at Surrey Wildlife Trust Manor Farm reserve"
 		src="/images/2012-07-15-sunday-night-at-manor-farm/DSC_0033.jpg" />
 
+<!-- more -->
+
 On my initial approach to the hide a deer bolted from the long grass off to the side.  She made her way into the pasture and stayed there for around an hour.  She initially seemed a bit nervous of me, but calmed over time and soon began feeding on the grass.
 
 Whilst watching the deer I was lucky enough to see a barn owl fly past twice, once pretty close up.  I could see the owl was carrying a pray item, not quite sure what it is even on the image at full magnification.

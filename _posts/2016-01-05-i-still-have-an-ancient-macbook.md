@@ -20,6 +20,8 @@ In the Apple tech press people have recently been rather mean about my laptop.  
 
 I got both these laptops at the base spec in late 2012 early 2013 ish. I can't remember what that means CPU wise but it shipped with 8GB of RAM, I think anyway, and a 500GB 5200rpm platter hard disk.
 
+<!-- more -->
+
 This has been my main machine ever since I got it, though mine has a 1TB 7200rpm hard disk and 16GB of Crucial RAM. The reality is once stuff has loaded, which yes does seem to take an age at times, it's perfectly fine.  
 
 I use [Abobe Lightroom][lr] a lot, the occasional bit of [Photoshop][ps] and I am also teaching my self [Swift] which means using XCode.  None of these choke up, die or are otherwise unusable. It just works, and pretty well generally.  None are famous for being overly light work either.

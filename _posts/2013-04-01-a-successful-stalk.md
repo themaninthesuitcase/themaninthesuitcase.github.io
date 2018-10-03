@@ -18,6 +18,8 @@ After a brief walk I heard the noise again and there in the undergrowth a fox lo
 		alt="A fox stares from the undergrowth"
 		src="/images/2013-04-01-a-successful-stalk/CJP20130401-2712.jpg" />
 
+<!-- more -->
+
 This was manually focused as the camera wanted to focus on the brambles.  Easier said than done on my Sigma 70-300.  I sat and watched the fox for a while until it got bored of me and disappeared into the undergrowth so I moved on to search for the deer.
 
 I found them in the bottom field. I tried to move along behind the field border as quietly as I could stopping when they looked up and eventually got to the bridge to their field.  At this point I began to crawl as close as I could, about 30m according the exif data (however I'm not very trusting of this as the shots which where certainly far closer also read 30m).

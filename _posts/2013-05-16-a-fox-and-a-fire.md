@@ -13,7 +13,9 @@ Well I finally got a new lens.  A 300 2.8 VR II and a set of teleconverters. I
 
 The first time I took it out about a week ago I went to see the roe deer and took a monopod to help with the mass.  In honesty it seemed to make it worse as the load is so top heavy, meaning I couldn't keep the lens still enough for even the VR to take up the slack.  The end result was I didn't really get anything worth sharing.
 
-The positive side of this outing was I met the ranger who was kind enough to point out the site boundary which I have never been sure of and also confirmed my suspicions on the location of the Barn owl nest in previous years.<!--more-->
+The positive side of this outing was I met the ranger who was kind enough to point out the site boundary which I have never been sure of and also confirmed my suspicions on the location of the Barn owl nest in previous years.
+
+<!-- more -->
 
 Yesterday I went out to try and get used to the lens again, this time however I took the tripod.  A 3 Legged Thing Dave, with an older model 3LT head on it.  While this holds the lens up it's clearly not the best solution and something sturdier and easier to use will be needed.  So if some one would like to send me a Gitzo and a Wimberly that would be smashing and save me a lot of expense!
 

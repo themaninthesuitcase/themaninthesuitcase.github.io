@@ -20,6 +20,8 @@ On the walk round I spotted this Small Tortoiseshell butterfly, a sign that spr
 		alt="Small Tortoiseshell butterfly"
 		src="/images/2013-04-21-spring-has-sprung/CJP20130420-2977.jpg" />
 
+<!-- more -->
+
 Slightly further round I heard a rustle and then noticed a deer was stuck between a laid hedge and the old fence.  It soon jumped out and disappeared off into the woods.  I don't know who was more startled me or the roe!
 
 Once on the other side of the river my gamble soon paid off.  I spotted a lone doe feeding in the long grass.  She was aware of my presence, thanks to 1 badly placed step, but soon settled down back to feeding.

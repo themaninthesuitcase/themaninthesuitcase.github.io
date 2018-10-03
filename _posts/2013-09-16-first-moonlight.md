@@ -15,6 +15,8 @@ I have recently been starting to investigate the world of astronomy and astropho
 
 Taking the images with a modern DSLR and photographic lens isn't overly complex.  Focus using autofocus, set a good exposure (I used [ETTR][ettr] here to ensure nice noise free images) then fire.  The key difference to terrestrial images is volume of data.
 
+<!-- more -->
+
 Astophotography almost always makes use of stacking to take lots images to make 1 final image.  Using the self timer I took around 140 images with a 1 second interval, exposure was around 1/320 f8 ISO800 from memory.  This was long enough for the moon to move from centre frame to the edge on my 600mm focal length.
 
 With the images in the can comes processing.  First step was to use Lightroom to export the NEF images to the TIFF as the NEF files aren't supported by the software I was using. To do this I zero'd out all adjustments and exported as a full quality TIFF.

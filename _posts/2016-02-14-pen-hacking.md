@@ -13,13 +13,16 @@ It all started when I bought our wedding rings.  Everything was done I just need
 
 It didn't take long but soon enough I was listening to [The Pen Addict][tpa] podcast and had bought several fountain pens[^hack1] and a sea of different inks.  Whilst I love using these they don't always play nice with cheap paper and the ink tends to "feather" a lot.  It was time to get a decent rollerball.
 
-In the interest of cost, the Montblanc I used costs £310, I went with a more budget friendly option: A [Lamy Vista][lv].  The refill that comes with it is a sort of blue-black and I wasn't keen on the colour. Whilst I could have just bought a black refill I decided to attempt a "pen hack" and fit the Montblanc refill that started this all.
-
-## The hack
 <img class="padded center"
 		alt="Lamy Vista and Montblanc refills"
 		src="/images/2016-02-14-pen-hacking/IMG_5826.jpg"
 	  srcset="/images/2016-02-14-pen-hacking/IMG_5826.jpg 1x, /images/2016-02-14-pen-hacking/IMG_5826-2x.jpg 2x" />
+
+In the interest of cost, the Montblanc I used costs £310, I went with a more budget friendly option: A [Lamy Vista][lv].  The refill that comes with it is a sort of blue-black and I wasn't keen on the colour. Whilst I could have just bought a black refill I decided to attempt a "pen hack" and fit the Montblanc refill that started this all.
+
+<!-- more -->
+
+## The hack
 
 When you look at the Lamy M63 refill and the Montblanc standard refill you can see that the Lamy refill is a few mm longer, and also that the front of the refill is about 1mm longer on the Lamy.  The difference at the front can't be fixed without altering the pen permanently, at the rear we can use a spacer to fill the gap.
 

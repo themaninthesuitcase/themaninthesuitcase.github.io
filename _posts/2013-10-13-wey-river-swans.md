@@ -16,6 +16,8 @@ Just as I was thinking of leaving I saw a family of mute swans coming down the R
 		alt="A pair of mute swans with their cygnet"
 		src="/images/2013-10-13-wey-river-swans/CJP20131006-6361.jpg" />
 
+<!-- more -->
+
 Exposing for swans proved to be rather tricky.  You want them to look white but still have detail and it's quite easy to get it wrong and end up with a grey swan or blow the whites and and up with a white swan but all the detail is lost.  This really proved to be the first proper test of the work I've been putting in with manual exposure.  I set the exposure by exposing about 1 2/3 under exposed in manual then chimping to see if I had blown the highlights and adjusting.  Then it was a case of adjusting as they moved down the river into progressively shadier areas.  While I didn't do amazingly I did a lot better than I would have done 6 months ago so I am happy with the improvement.
 
 At one point a handful of swans flew over head.  I didn't fancy my chances at getting the exposure nailed in this time so flicked to aperture priority hoping my ISO was in the right ball park.  While I had single point rather than a dynamic setting for the autofocus set my use of back button focus paid dividends as I was already in continuous focus to track the birds as they flew over.

@@ -14,6 +14,8 @@ But in April 2014 Apple changed everything. Watching the announcement of Apple W
 
 We are now 6 months after its release and I find my self rationalising a purchase at least once a week.  Occasionally I handle one in my local Apple Store and twirl the Digital Crown or try a force touch.
 
+<!-- more -->
+
 I listen to a lot of Apple centric podcasts ([ATP](http://atp.fm), [Connected](http://www.relay.fm/connected), [Analog(ue)](http://www.relay.fm/analogue), [The Talk Show](http://daringfireball.net/thetalkshow/)) where they talk about the watch on a reasonably regular basis. Whilst they all love their Apple Watch in varying amounts, none of them seem to make the case that this is a must have device like the smartphone has become.
 
 The problem seems to boil down to the 3rd party apps aren't really very good which reduces the watch to a glorified fitness band with notifications. Whilst the consensus seems to be that the notifications and fitness is great I'm not 100% sold that they are going to change my life.

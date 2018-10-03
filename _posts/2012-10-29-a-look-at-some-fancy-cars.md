@@ -15,6 +15,8 @@ Yesterday as a special treat a close friend of mine took me out Mercedes Benz 
 		alt="Lamborghini Aventador"
 		src="/images/2012-10-29-a-look-at-some-fancy-cars/CJP20121028-1064.jpg" />
 
+<!-- more -->
+
 There were several special cars including McLaren MP4-12C brought down from the factory by a man from MSO, or McLaren Special Operations.  Essentially a customising and tuning division of McLaren.  Kindly they let us ask lots of questions and even take a seat, in a car costing £170,000 before you tick any of the many options this one had, including many that are MSO options only (and so very expensive).
 
 <img class="padded center"

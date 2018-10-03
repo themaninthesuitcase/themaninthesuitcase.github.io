@@ -16,6 +16,8 @@ After looking at the Black Rapid and Sun sniper I wasn't overly keen on the trip
 		alt="Op/Tech Utility Sling"  
 		src="/images/2011-02-10-optech-utility-strap-sling-review/DSC_0012_20110210.jpg" />
 
+<!-- more -->
+
 The strap it's self is well made, a few loose thread ends but nothing overly concerning. The clips slide smoothly and have a good solid connection that inspire trust. The shoulder pad is made of neoprene so is good and grippy and doesn't move around when loaded, it can move a bit when using the camera but if you set the bottom stop right it should go back into place when you lower the camera again.
 
 As with all Op/Tech straps you can remove the strap from the pad and change to use it as a normal strap if you have the appropriate system connectors or swap out the pad for a different colour/design, though I don't see this being a huge selling point unless you already have lots of Op/Tech stuff.

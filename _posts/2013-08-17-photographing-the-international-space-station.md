@@ -16,6 +16,8 @@ Due to light pollution where I live what I can photograph without some specialis
 		alt="ISS pass 2103-08-12 21:24"
 		src="/images/2013-08-17-photographing-the-international-space-station/CJP20130812-5735.jpg" />
 
+<!-- more -->
+
 First some details.  The ISS is a 73 x 109m tin can, 413-418km up and is travelling at around 7.66km a second (faster than any bullet by a significant margin). An average pass is over in between 3 and 5 minutes depending on the angles involved and where the sun is.
 
 My initial experiments with photographing the ISS where simple long exposure shots to track the ISS as it's crossed the sky.  With a bit of planning using some [online tools][ha] you can be set up before it even crosses the horizon.  Then it's just a simple case of locking the shutter on continuous and then stacking the images using the lighten blending mode in GIMP or Photoshop.
