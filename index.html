@@ -12,7 +12,13 @@ layout: default
         <p class="post-meta"><i class="far fa-calendar"></i> {{ post.date | date: "%B %-d, %Y" }}</p>
       </header>
 
+      {% if post.content == post.excerpt %}
       {{ post.content }}
+      {% else %}
+      {{ post.excerpt }}
+      <a href="{{post.url}}">Read more…</a>
+      {% endif %}
+
     </article>
     <hr />
   </div>
@@ -22,10 +28,10 @@ layout: default
 <nav>
   <ul class="pager">
     {% if paginator.next_page %}
-      <li class="previous"><a href="{{ paginator.next_page_path }}"><span aria-hidden="true">&larr;</span> Older</a></li>
+    <li class="previous"><a href="{{ paginator.next_page_path }}"><span aria-hidden="true">&larr;</span> Older</a></li>
     {% endif %}
     {% if paginator.previous_page %}
-      <li class="next"><a href="{{ paginator.previous_page_path }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
+    <li class="next"><a href="{{ paginator.previous_page_path }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
     {% endif %}
   </ul>
 </nav>
