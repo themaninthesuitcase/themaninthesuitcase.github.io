@@ -7,6 +7,7 @@ tags:
  - props
  - design
  - logo
+image: /images/2018-04-29-suitcase-props/SP-Props-Logo.png
 ---
 
 So, I've been selling a few 3D printed prop parts on [Shapeways][shapwaysstore] since Rogue One was released in 2016.  The store was named Suitcase Props, a play on my long time screen name.

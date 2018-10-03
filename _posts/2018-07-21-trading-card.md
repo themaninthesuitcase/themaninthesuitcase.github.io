@@ -7,7 +7,7 @@ tags:
  - ukg
  - tradingcards
  - 501stlegion
-image: https://www.cpearson.me.uk/images/2018-07-21-trading-cards/IMG_4550.jpg
+image: /images/2018-07-21-trading-cards/IMG_4550.jpg
 ---
 <img class="padded center"
 		alt="UK Garrison Trading Card 364"
