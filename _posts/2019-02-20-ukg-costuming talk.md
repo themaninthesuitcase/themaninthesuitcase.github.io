@@ -1,5 +1,5 @@
 ---
-title: "UKG Costuming tlak @ MCM Comicon Birmigham"
+title: "UKG Costuming talk @ MCM Comicon Birmigham"
 description: "An insight into building accurate costumes"
 categories:
  - troop
