@@ -22,9 +22,9 @@ The part in question today is the Russian MP38A NPN Germanium Transistor. Ignori
 
 <!-- more -->
 
-Whilst the layout is reasonably obvious I wasn't ever 100% sure.  Only once I built a [test circuit](tbetc) and it didn't work did I go googling again.
+Whilst the layout is reasonably obvious I wasn't ever 100% sure.  Only once I built a [test circuit][tbetc] and it didn't work did I go googling again.
 
-I found a page ([Blackout Electronics](be)) that posted a diagram which confirmed I was right which pin was the Base pin it wasnt clear which way the digram was showing the pins from.
+I found a page ([Blackout Electronics][be]) that posted a diagram which confirmed I was right which pin was the Base pin it wasnt clear which way the digram was showing the pins from.
 
 So after getting it wrong once, then swapping it round my test rig started giving readings that made sense. They where rubbish, but made sense.
 
