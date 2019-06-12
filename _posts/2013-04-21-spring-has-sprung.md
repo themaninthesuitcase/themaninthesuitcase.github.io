@@ -1,6 +1,6 @@
 ---
 title: "Spring Has Sprung"
-catagories:
+categories:
  - photography
 tags:
  - swt

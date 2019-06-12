@@ -1,6 +1,6 @@
 ---
 title: "Lowepro Classified 160 AW Review"
-catagories:
+categories:
  - photography
 tags:
  - bag

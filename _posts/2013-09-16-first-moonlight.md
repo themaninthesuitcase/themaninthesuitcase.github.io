@@ -1,6 +1,6 @@
 ---
 title: "First Moonlight"
-catagories:
+categories:
  - photography
 tags:
  - astrophotography

@@ -1,6 +1,6 @@
 ---
 title: "A Big Cat In A Big Zoo"
-catagories:
+categories:
  - photography
 tags:
  - zoo

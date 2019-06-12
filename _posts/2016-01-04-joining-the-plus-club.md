@@ -1,7 +1,7 @@
 ---
 title: Joining The Plus club
 description: I bought a clown sized phone, and I love it.
-catagories:
+categories:
  - tech
 tags:
  - apple

@@ -1,6 +1,6 @@
 ---
 title: "3 Legged Thing Kirk X2a Tripod Review"
-catagories:
+categories:
  - photography
 tags:
  - 3leggedthing

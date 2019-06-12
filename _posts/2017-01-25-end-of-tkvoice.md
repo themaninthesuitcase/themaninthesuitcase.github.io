@@ -1,7 +1,7 @@
 ---
 title: TKVoice Is No More 😢
 description: I killed my App!
-catagories:
+categories:
  - tech
 tags:
  - ios

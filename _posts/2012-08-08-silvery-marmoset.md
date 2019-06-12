@@ -1,6 +1,6 @@
 ---
 title: "Silvery Marmoset"
-catagories:
+categories:
  - photography
 tags:
  - zoo

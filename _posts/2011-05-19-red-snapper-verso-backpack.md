@@ -1,6 +1,6 @@
 ---
 title: "Red Snapper Verso Backpack"
-catagories:
+categories:
  - photography
 tags:
  - review

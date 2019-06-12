@@ -1,6 +1,6 @@
 ---
 title: "Sunday Night At Manor Farm"
-catagories:
+categories:
  - photography
 tags:
  - swt

@@ -1,7 +1,7 @@
 ---
 title: The Decline Of Stack Overflow
 description: I'm OG SO.
-catagories:
+categories:
  - tech
 tags:
  - development

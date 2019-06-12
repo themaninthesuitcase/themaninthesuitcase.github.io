@@ -1,7 +1,7 @@
 ---
 title: A Long Time Ago...
 description: So you want to become a Stormtrooper?
-catagories:
+categories:
  - cosplay
 tags:
  - stormtrooper

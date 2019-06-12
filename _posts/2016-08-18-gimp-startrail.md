@@ -1,7 +1,7 @@
 ---
 title: GIMP Star Trails
 description: An update on my opensource GIMP plugin.
-catagories:
+categories:
  - tech
 tags:
  - mac

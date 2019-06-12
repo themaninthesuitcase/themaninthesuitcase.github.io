@@ -1,6 +1,6 @@
 ---
 title: "Getting Back Out In The Field"
-catagories:
+categories:
  - photography
 tags:
  - swt

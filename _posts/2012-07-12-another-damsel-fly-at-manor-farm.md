@@ -1,6 +1,6 @@
 ---
 title: "Another Damsel Fly at Manor Farm"
-catagories:
+categories:
  - photography
 tags:
  - swt

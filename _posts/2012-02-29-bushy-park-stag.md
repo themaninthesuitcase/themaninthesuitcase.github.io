@@ -1,6 +1,6 @@
 ---
 title: "Bushy Park Stag"
-catagories:
+categories:
  - photography
 tags:
  - deer

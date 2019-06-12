@@ -1,6 +1,6 @@
 ---
 title: "Bushy Park Rut 2013 - Video Clip"
-catagories:
+categories:
  - photography
 tags:
  - nature

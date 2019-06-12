@@ -1,6 +1,6 @@
 ---
 title: "Photographing The International Space Station"
-catagories:
+categories:
  - photography
 tags:
  - astrophotography

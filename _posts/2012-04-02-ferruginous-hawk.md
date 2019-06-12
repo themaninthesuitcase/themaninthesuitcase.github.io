@@ -1,6 +1,6 @@
 ---
 title: "Captive Ferruginous Hawk"
-catagories:
+categories:
  - photography
 tags:
  - rhs

@@ -1,6 +1,6 @@
 ---
 title:  "Op Tech Utility Strap Sling Review"
-catagories:
+categories:
  - photography
 tags:
  - nikon

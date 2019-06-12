@@ -1,6 +1,6 @@
 ---
 title: "Flood Damage To The Local River"
-catagories:
+categories:
  - photography
 tags:
  - rhs

@@ -1,6 +1,6 @@
 ---
 title: "Gimp Startrail Plugin Update 1.3"
-catagories:
+categories:
  - photography
 tags:
  - opensource

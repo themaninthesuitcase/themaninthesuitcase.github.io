@@ -1,6 +1,6 @@
 ---
 title: "Sunset At Bracklesham Bay"
-catagories:
+categories:
  - photography
 tags:
  - landscape

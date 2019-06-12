@@ -1,6 +1,6 @@
 ---
 title: "A Fox And A Fire"
-catagories:
+categories:
  - photography
 tags:
  - swt
