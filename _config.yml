@@ -26,6 +26,22 @@ defaults:
 
 plugins:
  - jekyll-paginate
+ - jekyll-archives
 
 exclude:
     - vendor
+
+jekyll-archives:
+  enabled: [year,categories]
+  layouts:
+    year: archive/year
+    # month: archive/month
+    # day: archive/day
+    # tag: archive/category
+    category: archive/category
+  permalinks:
+    year: '/:year/'
+    # month: '/:year/:month/'
+    # day: '/:year/:month/:day/'
+    # tag: '/tags/:name/'
+    category: '/category/:name/'

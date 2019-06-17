@@ -2,7 +2,7 @@
 title: "ElstreeCon 2.0"
 description: "Trooping where it all started"
 categories:
- - troop
+ - '501st'
 tags:
  - ukg
  - fisd
