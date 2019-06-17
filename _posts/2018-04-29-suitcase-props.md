@@ -1,7 +1,7 @@
 ---
 title:  Suitcase Props
 description: Logo design by Dummies.
-catagories:
+categories:
  - cosplay
 tags:
  - props

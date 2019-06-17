@@ -1,6 +1,6 @@
 ---
 title: "A Promising Start To Spring"
-catagories:
+categories:
  - photography
 tags:
  - swt

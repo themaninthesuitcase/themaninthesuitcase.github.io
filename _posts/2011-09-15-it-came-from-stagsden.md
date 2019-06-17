@@ -1,6 +1,6 @@
 ---
 title: "It Came From Stagsden!"
-catagories:
+categories:
  - photography
 tags:
  - 3leggedthing

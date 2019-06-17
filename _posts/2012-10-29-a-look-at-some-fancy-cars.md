@@ -1,6 +1,6 @@
 ---
 title: "A Look At Some Fancy Cars"
-catagories:
+categories:
  - photography
 tags:
  - cars

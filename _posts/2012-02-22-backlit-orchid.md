@@ -1,6 +1,6 @@
 ---
 title: "Backlit Orchid"
-catagories:
+categories:
  - photography
 tags:
  - flower

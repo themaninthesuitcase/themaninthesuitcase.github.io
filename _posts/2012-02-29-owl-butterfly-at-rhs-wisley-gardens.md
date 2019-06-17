@@ -1,7 +1,7 @@
 ---
 
 title: "Owl Butterfly At RHS Wisley Gardens"
-catagories:
+categories:
  - photography
 tags:
  - nature

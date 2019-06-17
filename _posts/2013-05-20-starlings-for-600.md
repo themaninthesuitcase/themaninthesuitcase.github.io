@@ -1,6 +1,6 @@
 ---
 title: "Starlings For 600"
-catagories:
+categories:
  - photography
 tags:
  - starling

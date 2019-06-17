@@ -1,6 +1,6 @@
 ---
 title: "Common Toad"
-catagories:
+categories:
  - photography
 tags:
  - toad

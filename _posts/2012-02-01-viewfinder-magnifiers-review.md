@@ -1,6 +1,6 @@
 ---
 title: "Viewfinder Magnifiers Review"
-catagories:
+categories:
  - photography
 tags:
  - review

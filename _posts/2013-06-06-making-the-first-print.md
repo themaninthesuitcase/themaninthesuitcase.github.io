@@ -1,6 +1,6 @@
 ---
 title: "Making The First Print"
-catagories:
+categories:
  - photography
 tags:
  - print

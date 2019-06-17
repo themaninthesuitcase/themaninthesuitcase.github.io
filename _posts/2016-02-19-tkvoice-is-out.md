@@ -1,7 +1,7 @@
 ---
 title: TKVoice Is Out!
 description: I made an App!
-catagories:
+categories:
  - tech
 tags:
  - ios

@@ -1,6 +1,6 @@
 ---
 title: "Patch Update - June 2013"
-catagories:
+categories:
  - photography
 tags:
  - swt

@@ -1,6 +1,6 @@
 ---
 title: "Damselfly"
-catagories:
+categories:
  - photography
 tags:
  - swt

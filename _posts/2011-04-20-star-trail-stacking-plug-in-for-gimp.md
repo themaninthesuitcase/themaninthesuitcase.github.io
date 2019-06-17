@@ -1,6 +1,6 @@
 ---
 title: "Star Trail Stacking Plug In For Gimp"
-catagories:
+categories:
  - photography
 tags:
  - opensource

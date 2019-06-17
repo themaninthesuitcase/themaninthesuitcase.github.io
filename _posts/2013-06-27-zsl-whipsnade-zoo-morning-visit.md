@@ -1,6 +1,6 @@
 ---
 title: "ZSL Whipsnade Zoo Morning Visit"
-catagories:
+categories:
  - photography
 tags:
  - zoo

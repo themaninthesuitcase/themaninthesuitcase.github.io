@@ -1,7 +1,7 @@
 ---
 title: David Bowie (1947 - 2016)
 description: Ziggy played guitar
-catagories:
+categories:
  - Entertainment
 tags:
  - David Bowie

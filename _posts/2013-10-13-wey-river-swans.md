@@ -1,6 +1,6 @@
 ---
 title: "River Wey Swans"
-catagories:
+categories:
  - photography
 tags:
  - nature

@@ -1,6 +1,6 @@
 ---
 title: "Adobe Lightroom 4 Beta Review"
-catagories:
+categories:
  - photography
 tags:
  - review

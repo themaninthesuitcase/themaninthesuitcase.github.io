@@ -1,6 +1,6 @@
 ---
 title: "A Successful Stalk"
-catagories:
+categories:
  - photography
 tags:
  - fox
