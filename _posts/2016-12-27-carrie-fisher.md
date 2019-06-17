@@ -2,7 +2,7 @@
 title: Carrie Fisher (1956 - 2016)
 description: We lost our princess
 categories:
- - Entertainment
+ - personal
 tags:
  - Carrie Fisher
  - starwars

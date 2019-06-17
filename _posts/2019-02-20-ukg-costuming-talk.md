@@ -2,7 +2,7 @@
 title: "UKG Costuming talk @ MCM Comicon Birmigham"
 description: "An insight into building accurate costumes"
 categories:
- - troop
+ - 501st
 tags:
  - ukg
  - reelicons

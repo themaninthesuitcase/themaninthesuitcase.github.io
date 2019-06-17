@@ -2,7 +2,7 @@
 title: "Trading Card #364"
 description: I am a trading card
 categories:
- - troop
+ - 501st
 tags:
  - ukg
  - tradingcards

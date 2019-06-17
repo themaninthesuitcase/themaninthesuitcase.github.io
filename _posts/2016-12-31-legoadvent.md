@@ -2,7 +2,7 @@
 title: "2016 Lego Star Wars Advent"
 description: "Day by Day of the 2016 Lego Star Wars advent calendar."
 categories:
- - Lego
+ - personal
 tags:
  - starwars
  - advent

@@ -2,7 +2,7 @@
 title: A Long Time Ago...
 description: So you want to become a Stormtrooper?
 categories:
- - cosplay
+ - 501st
 tags:
  - stormtrooper
  - tk

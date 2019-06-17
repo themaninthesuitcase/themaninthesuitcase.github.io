@@ -2,7 +2,7 @@
 title: "London Comic Con"
 description: "First troop at London Comicon"
 categories:
- - troop
+ - 501st
 tags:
  - ukg
  - fisd

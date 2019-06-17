@@ -2,8 +2,9 @@
 title: "MP38A Germanium NPN Transistor Pin Out"
 description: "Some nerdy stuff about vintage electronic components from the USSR"
 categories:
- - electronics
+ - guitar
 tags:
+ - electronics
  - transistor
  - npn
  - germanium

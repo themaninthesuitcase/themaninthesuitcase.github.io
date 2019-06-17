@@ -2,7 +2,7 @@
 title: "First Imperial Stormtrooper Detachment - Centurion"
 description: "I'm now a member of the Centurion corps on FISD"
 categories:
- - TK
+ - 501st
 tags:
  - ukg
  - fisd
