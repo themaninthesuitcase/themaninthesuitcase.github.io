@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 
-  <title>{% if page.title %}{{ page.title | capitalize }}{% else %}{{ site.title | capitalize }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title | titleize }}{% else %}{{ site.title | titleize }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="{{ site.author }}">
 
