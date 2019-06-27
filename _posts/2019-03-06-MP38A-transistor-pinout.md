@@ -9,6 +9,7 @@ tags:
  - npn
  - germanium
  - datasheet
+image: /images/2019-03-06-MP38A-transistor-pinout/IMG_8014.jpg
 ---
 I've recently been working on a DIY guitar effects pedal.  A lot of these use old vintage parts long since replaced as they are designs from the 60s.  This means finding suitable bits on eBay.
 

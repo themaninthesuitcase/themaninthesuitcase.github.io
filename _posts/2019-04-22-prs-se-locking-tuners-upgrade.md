@@ -8,6 +8,7 @@ tags:
  - tuners
  - diy
  - mod
+image: /images/2019-04-22-prs-se-locking-tuners-upgrade/IMG_8438-Edit.jpg
 ---
 One of the worst things about playing guitar is changing the strings.  Specifically spending what feels like a million years winding the strings off of and on to the post.  Even with a winder it's still a chore meaning I don't change them as often as I should.
 

@@ -8,6 +8,7 @@ tags:
  - pedal
  - diy
  - electronics
+image: /images/2019-03-15-diy-tonebender-fuzz/IMG_7993.jpg
 ---
 Late last year I started re-learning the guitar.  I've been learning using online lessons by [Justin Guitar][jg]. I've been slowly upgrading my equipment, buying a small practice amp and a nice [PRS SE Standard 24][prsse] as rewards for my progress.  But the time came to start playing with effects pedals!
 
