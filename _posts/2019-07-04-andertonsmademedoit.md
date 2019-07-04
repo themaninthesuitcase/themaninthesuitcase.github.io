@@ -12,7 +12,7 @@ image: /images/2019-07-04-andertonsmademedoit/IMG_9039-inst.jpg
 ---
 The other week we went down to visit my Dad for lunch as we often do.  After lunch, we decided to pop over to [Andertons Music Co][andertons] for a look for something for Middlest&trade; to earn as a reward over the next few weeks/months.
 
-She's been showing interest in guitar so we picked out a few Squires and Epiphones for her to look at.  She liked a pink [Squire 3/4 Strat][andertsonsPinkSquire] but ultimately picked a turquoise [Epiphone Les Paul SL][andertonsLPSL].
+She's been showing interest in guitar so we picked out a few Squiers and Epiphones for her to look at.  She liked a pink [Squier 3/4 Strat][andertsonsPinkSquier] but ultimately picked a turquoise [Epiphone Les Paul SL][andertonsLPSL].
 
 I was about to put the guitar back on the rack and give her the whole speil about she could have one once she'd earned it when "I can play a D chord"....
 
@@ -57,7 +57,7 @@ ps: I still want a [Vox AC15 though...][andertonsAC15]
 [andertonscomps]: https://www.andertons.co.uk/made-me
 [andertonsAC15]: https://www.andertons.co.uk/vox-15-watt-1-x-12-combo-with-celestion-creamback-g12m-speaker-cream-bronco
 [andertonsLPSL]: https://www.andertons.co.uk/epiphone-les-paul-sl-in-turquoise
-[andertsonsPinkSquire]: https://www.andertons.co.uk/squier-3-4-mini-strat-in-pink-2017-edition
+[andertsonsPinkSquier]: https://www.andertons.co.uk/squier-3-4-mini-strat-in-pink-2017-edition
 [andertonskat50]: https://www.andertons.co.uk/boss-cover-for-katana-50-combo
 [instadp]: https://www.instagram.com/mrpeterhonore/
 [justinguitar]: https://www.justinguitar.com/
