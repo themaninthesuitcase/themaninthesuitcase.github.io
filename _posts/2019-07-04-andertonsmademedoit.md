@@ -23,7 +23,7 @@ I submit the following as evidence of the D chord.
 <img class="padded center"
 		alt="Middlest playing a D chord in Andertons"
 		src="/images/2019-07-04-andertonsmademedoit/IMG_9039-inst.jpg"
-	  srcset="/images/2019-07-04-andertonsmademedoit/IMG_9039-inst-2x.jpg 2x" />
+	  srcset="/images/2019-07-04-andertonsmademedoit/IMG_9039-inst.jpg 1x, /images/2019-07-04-andertonsmademedoit/IMG_9039-inst-2x.jpg 2x" />
 
 The guitar came home with us that day. The story doesn't end there though.
 
