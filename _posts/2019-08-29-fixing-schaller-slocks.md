@@ -20,6 +20,8 @@ Rather than just put up with this I decided to do something about it and ordered
 
 The idea was to enlarge the strap hole so the lock fits neatly removing the need to force the leather.  This should make it look nicer and also stop the small splits you normally get.
 
+<!-- more -->
+
 This is what a strap normally looks like after fitting the S-lock. The leather is miss shaped and the slot has splayed open.  If you undid the nut you would see 1 or 2 tiny tears around the lock barrel.
 
 <img class="padded center"
