@@ -1,6 +1,6 @@
 ---
 title: "Diy Katana 50 4 Channel Footswitch"
-description: ""
+description: "Building an overly complicated foot switch I won't use much"
 categories:
  - guitar
 tags:
