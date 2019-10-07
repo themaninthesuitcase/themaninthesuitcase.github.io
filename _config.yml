@@ -10,7 +10,7 @@ excerpt_separator: <!-- more -->
 
 twitter: "@maninsuitcase"
 
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 
 # Build settings

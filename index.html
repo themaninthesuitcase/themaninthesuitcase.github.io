@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-
 <div class="home">
   {% for post in paginator.posts %}
   <div class="post">
-
     <article class="post-content">
       <header class="post-header">
-        <a href="{{post.url}}"><h1 class="post-title">{{ post.title }}</h1></a>
+        <a href="{{post.url}}">
+          <h1 class="post-title">{{ post.title }}</h1>
+        </a>
         <p class="post-meta"><i class="far fa-calendar"></i> {{ post.date | date: "%B %-d, %Y" }}</p>
       </header>
 
@@ -25,13 +25,4 @@ layout: default
   {% endfor %}
 </div>
 
-<nav>
-  <ul class="pager">
-    {% if paginator.next_page %}
-    <li class="previous"><a href="{{ paginator.next_page_path }}"><span aria-hidden="true">&larr;</span> Older</a></li>
-    {% endif %}
-    {% if paginator.previous_page %}
-    <li class="next"><a href="{{ paginator.previous_page_path }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
-    {% endif %}
-  </ul>
-</nav>
+{% include pager.html %}
