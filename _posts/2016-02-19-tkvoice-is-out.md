@@ -11,7 +11,9 @@ tags:
  - stormtrooper
 ---
 
-<img class="tkvoiceicon center-block" src="/images/tkvoice/tkvoicelogo.svg" alt="TKVoice logo"/>
+<div class="text-center">
+    <img class="tkvoiceicon" src="/images/tkvoice/tkvoicelogo.svg" alt="TKVoice logo"/>
+</div>
 
 After a much longer gestation than I thought[^tkv1] TKVoice is now available on the App Store.
 

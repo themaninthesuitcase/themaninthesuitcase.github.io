@@ -1,5 +1,6 @@
-<ul class="list-inline center-block">
+<ul class="list-inline">
 	{% for service in site.data.social %}
-	<li><a href="{{service.url}}"><span title="{{service.name}}" class="icon-social fab {{service.icon}} fa-2x"></span></a></li>
+	<li class="list-inline-item"><a href="{{service.url}}" target="_blank"><span title="{{service.name}}"
+				class="icon-social fab {{service.icon}} fa-2x"></span></a></li>
 	{% endfor %}
 </ul>

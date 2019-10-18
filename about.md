@@ -3,11 +3,11 @@ title: About
 layout: page
 permalink: /about/
 ---
-<img class="pull-right padded"
+<img class="float-right rounded"
      title="Chris Pearson"
 	 alt="Chris Pearson"
-	 src="/images/About-150x150.jpg"
-	 srcset="/images/About-150x150.jpg 1x, /images/About-150x150-2x.jpg 2x" />
+	 src="/images/About-300.jpg"
+	 srcset="/images/About-300.jpg 1x, /images/About-600.jpg 2x" />
 
 Welcome. I'm Chris Pearson, a husband, father and nerd living in the UK.
 

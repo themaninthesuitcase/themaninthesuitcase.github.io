@@ -14,13 +14,22 @@ layout: default
 
 </div>
 
+<!-- Post Navigation -->
 <nav>
-  <ul class="pager">
+  <ul class="pagination justify-content-center">
+
     {% if page.previous.url %}
-      <li class="previous"><a href="{{ page.previous.url }}"><span aria-hidden="true">&larr;</span> {{page.previous.title}}</a></li>
+    <li class="page-item">
+      <a class="page-link" href="{{ page.previous.url }}"><span
+          aria-hidden="true">&larr;</span>{{page.previous.title}}</a>
+    </li>
     {% endif %}
+
+
     {% if page.next.url %}
-      <li class="next"><a href="{{ page.next.url }}">{{ page.next.title }} <span aria-hidden="true">&rarr;</span></a></li>
+    <li class="page-item">
+      <a class="page-link" href="{{ page.next.url }}">{{ page.next.title }} <span aria-hidden="true">&rarr;</span></a>
+    </li>
     {% endif %}
   </ul>
 </nav>

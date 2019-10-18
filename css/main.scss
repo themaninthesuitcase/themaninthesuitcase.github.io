@@ -1,58 +1,64 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
-body{
-	margin-bottom: 20px;
+body {
+  margin-bottom: 20px;
 }
 
 .navigation {
-	margin-top:20px;
-	margin-bottom:20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+nav.tkvoice-nav {
+  margin-bottom: 10px;
 }
 
 img {
-	max-width: 100%;
-	max-height: auto;
+  max-width: 100%;
+  max-height: auto;
 }
 
 img.padded {
-	margin: 1em;
+  margin: 1em;
 }
 
 img.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1.branding {
-	margin-bottom: 3px;
-	font-size: 50px;
+  margin-bottom: 3px;
+  margin-top: 5px;
+  font-size: 50px;
 }
 
 .footnotes {
   font-size: 12px;
-	margin-top: 25px;
+  margin-top: 25px;
 }
 
 img.appstorebadge {
-	height: 40px;
-	margin: 10px;
+  height: 40px;
+  margin: 10px;
 }
 
 img.tkvoiceicon {
-	height: 300px;
-	border-width: 1px;
-	border-color: #000;
+  height: 300px;
+  border-width: 1px;
+  border-color: #000;
 }
 
-img.border{
-	border: 1px solid #ccc
+img.border {
+  border: 1px solid #ccc;
 }
 
 img[alt=""],
 img:not([alt]) {
-	border: 5px dashed #c00;
+  border: 5px dashed #c00;
 }
