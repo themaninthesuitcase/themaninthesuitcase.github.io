@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: /about/
 ---
-<img class="float-right rounded"
+<img class="float-right rounded padded"
      title="Chris Pearson"
 	 alt="Chris Pearson"
 	 src="/images/About-300.jpg"
