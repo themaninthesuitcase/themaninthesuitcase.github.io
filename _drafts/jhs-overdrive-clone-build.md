@@ -47,15 +47,17 @@ The diagram Josh showed didn't have any power section however.  As such I design
 
 ## PCB Design
 
+_Ominous warning: this isn't all true by the end of our journey._ 
+
 This bit is a lot harder.  For this build I decided to try use some surface mount parts for the first time and get these assembled at the manufacturer.  What was to be SMD and what I would add later was decided on a part by part basis.
 
-Almost all caps are to be soldered on as I chose to get name brand (Wima poly and Panasonic electrolytic) parts from RS Components, 2 tiny caps are SMD mainly as I was finding them hard to source.  C5/C6 are "extended" parts which means a £3 charge each to load less common parts them the machine. This sounds expensive but a Mica 51pF for C6 is £1.42 each and I'd need to order 50.  Or pay the £3 and they cost £0.0092 each after that.
+Almost all caps are to be soldered on as I chose to get name brand (Wima poly and Panasonic electrolytic) parts from RS Components, 2 caps are SMD mainly as I was finding them hard to source.  C5/C6 are "extended" parts which means a £3 charge each to load less common parts them the machine. This sounds expensive but a Mica 51pF for C6 is £1.42 each and I'd need to order 50.  Or pay the £3 and they cost £0.0092 each after that.
 
 Resistors are all SMD to save space and build time. I wouldn't expect them to affect the sound adversely as they are commonly used in modern production pedals, including those made by JHS. The hardest part was figuring out what wattage to go for.  Handily JHS quote a 12mA draw on the pedal giving 0.108W @ 9V. So a 1/8W should be fine as no single resistor has a full draw through it but leaves some headroom incase I am wrong.
 
 All the diodes are SMD, mainly for size reasons but it also saves some build time and are a little cheaper that way.
 
-The 2 transistors are only available as SMD, though I am sure I could have found a suitable through hole part if I'd wanted. These are also extended parts but I'd need to buy 100 (£3.30) from RS so the cost difference is pretty minimal and saves trying to hand solder SMD parts.
+The 2 transistors are SMD, as thats what an MMBT5088 is.
 
 Finally I went for named Alpha 9mm pots and an RS pro switch to avoid nasty stuff from eBay and also mean I should be able to depend on them in future if I like them.
 
@@ -64,7 +66,7 @@ Finally I went for named Alpha 9mm pots and an RS pro switch to avoid nasty stuf
         src="/images/jhs-overdrive-clone-build/IMG_3598.jpg"
         srcset="/images/jhs-overdrive-clone-build/IMG_3598.jpg 1x, /images/jhs-overdrive-clone-build/IMG_3598-2x.jpg 2x" />
 
-With all my parts chosen the software just dumps them into a mess on a new pcb, it's completely unusable like this.  My wife spent at least 30 minuted just dragging stuff apart so it was a bit more clear what we had to work with.
+With all my parts chosen the I was able to select the correct footprints for them in Kicad.  The software just dumps them into a mess on a new pcb, it's completely unusable like this.  My wife spent at least 30 minuted just dragging stuff apart so it was a bit more clear what we had to work with.
 
 <img class="padded center"
         alt="Starting to sort the mess"
@@ -80,7 +82,7 @@ First job was to position the pots and switches as these are pretty limited to w
 
 To add the switch I needed to first create a footprint for it.  Whilst RS provide one it's not compatible with KiCad, so I used the data sheet and created my own.  This isn't too hard and is quite quick to do. With this done I just dropped it in centred on the gain pot and as close as seemed sensible for a nice look.  I also positioned the input, output and power connections for the switch at the bottom to match the daughter board I had previously bought from [fuzz dog][fuzzdogdaughterboard].
 
-The actual layout was just a case of putting things where they might make sense, then trying to wire stuff up.  If it didn't work I'd clearly all the wires move some bits and try again.  As things began to firm up I would lock them[^jhsod1] in place which stops you moving them by accident, and also means you they aren't cleared by default when you delete all.  Slowly but surely you end up with most things connected and after a final push with some vias I was able to connect everything.
+The actual layout was just a case of putting things where they might make sense, then trying to wire stuff up.  If it didn't work I'd clear all the wires move some bits and try again.  As things began to firm up I would lock them in place[^jhsod1] which stops you moving them by accident, and also means you they aren't cleared by default when you delete all.  Slowly but surely you end up with most things connected and after a final push with some vias I was able to connect everything.
 
 I am pretty sure that if the fine people at JHS saw my routing they would be horrified. I found the SMD parts made things harder as all the SMD parts need to be on the same face (a limit from the manufacturer). As there are no through holes I couldn't just run lines one which ever side made more sense, but I got there in the end with some vias.  
 
@@ -111,16 +113,19 @@ Apparently this is a [decoupling capacitor][wiki_decouplingcap] which is there t
 
 ## Assembly
 
-First job is drilling out the enclosure.  Masking tape is applied to protect it and then careful measurements are needed to get everything in the right spot. Easier said than done, and things are a bit tight.  I did some tests on an old scrap enclosure to help check things and then made a few minor adjustments for the ones I will be using.  I wasn't sure on what jack I would be using due to space so this scrap test was useful in trying to get things to fit.
+First job is drilling out the enclosure.  Masking tape is applied to protect it and then careful measurements are needed to get everything in the right spot. Easier said than done, and things are a bit tight.  I did some tests on an old scrap enclosure to help check things and then made a few minor adjustments for the ones I will be using.  I wasn't sure on what jack I would be using due to space so this scrap test was useful in trying to get things to fit.  I also drill all the holes around 1mm over size, especially the pots and switch.  This gives a small amount of wiggle room if you're not spot on when drilling by hand.
 
 <img class="padded center"
         alt="Enclosure marked up for drilling"
         src="/images/jhs-overdrive-clone-build/IMG_3785.jpg"
         srcset="/images/jhs-overdrive-clone-build/IMG_3785.jpg 1x, /images/jhs-overdrive-clone-build/IMG_3785-2x.jpg 2x" />
 
-With everything marked out I carefully centre punch each hole.  First is a 2mm drill, then a 4mm drill.  Finally a step drill is used to get each hole to final size.  These range from 7-12mm.  These are painted before final assembly.
+With everything marked out I carefully centre punch each hole.  First is a 2mm drill, then a 4mm drill.  Finally a step drill is used to get each hole to final size.  These range from 7-12mm.  The enclosures are painted and labeled before final assembly.  I also cleaned the paint from one of the screw holes on the base plate with a drill bit, this will help ensure a solid electrical join between the cases for shielding. I probably didn't need to as I masked off the joining faces but some paint did get in under it.
 
-{painted empty enclosure}
+<img class="padded center"
+        alt="Painted Enclosures"
+        src="/images/jhs-overdrive-clone-build/IMG_3879.jpg"
+        srcset="/images/jhs-overdrive-clone-build/IMG_3879.jpg 1x, /images/jhs-overdrive-clone-build/IMG_3879-2x.jpg 2x" />
 
 I normally use 60/40 leaded solder as I find it easier to solder with. For this project I am using lead free, I have some from previous projects, one is a standard type the other has some silver in it.  The goal being these are ROHS compliant, not that I need to worry about this as a hobbyist.  I went with some by [Rapid Electronics][RapidElectSolder], with my iron set to 350ºC this worked better than any other lead free I've used and was actually similar to the leaded solder I have.
 
@@ -144,77 +149,76 @@ Last up, the pots.  The side support pins were problematic and didn't fit throug
         src="/images/jhs-overdrive-clone-build/IMG_3779.jpg"
         srcset="/images/jhs-overdrive-clone-build/IMG_3779.jpg 1x, /images/jhs-overdrive-clone-build/IMG_3779-2x.jpg 2x" />
 
-{adding the missing cap}
+The missing cap was added by adding it between the C2 47uF filter cap ground leg and pin 1 on the volume pot.  The legs were covered in insulation stripped from some hookup wire.  Very fiddly but did the job.
 
 For the second board, rinse and repeat.
 
-## Testing
+## A bigger problem, much bigger.
+Boards complete I added the switch assembly, temporarily added the power jack and plugged in before casing up.  Clean tone, so the switch is fine, awesome.  **Click** Nothing. **Click Click** Still nothing, uh oh.
+
+Out came the multi meter, power was getting where it needed and at the right voltages.  Maybe I have the OpAmp in backwards, flip, nope still nothing.  Dead op amp? pulled it out, left it on the socket, grabbed a new one, went to move the old one **thats HOT**[^jhsod3].  So that one's definitely dead, but the new one also does nothing.  Eventually looking at the board I notice that the 9V pin for the MMBT5088s seems oddly placed.  I load up the data sheet and sure enough it's because it's wrong.  I had 9V going straight into the base, and the other two were wrong as well, every single pin was in the wrong pad.
+
+Being SMD parts, thats it we're done.  No fancy solder work will save the day here as the pads are just too small.  
+
+How did this happen? Default footprints.  The part uses a SOT-23 package, and I assumed that pin 1 on an SOT-23 would always be the same.  Not so, when compared to the schematic what pins 1-3 meant for my chosen part didn't tie up to the generic SOT-23 footprint.  
+
+This shows the default vs a version edited so that they matched the layout of the selected part.
+
+<img class="padded center"
+        alt="MMBT5088 footprint comparison"
+        src="/images/jhs-overdrive-clone-build/5088Footprints.png" />
+
+With the boards updated with the correct footprint, and triple checked against the datasheet I went order some new PCBs.
+
+Only there wa a problem.  The MMBT5088s are no longer available from JLCPB.  Whilst I could carry on and buy some cheaply enough there was no way I was hand soldering SMD parts, my soldering is no where near good enough.  Fortunately the datasheet gave the through hole part number, 2N5088, and my favorite part vendor stocks them.  So another foot print swap, some minor layout changes and triple check later I was back to waiting for PCBs to be made. 
 
 ## Lessons learnt
 
 During this project I've learnt a few things and there are a number of things I would do differently.
 
-First is I didn't research my power section enough.  Reading through some pedal breakdowns after I ordered the PCBs I quickly noticed the issue and so I should have looked at some other pedals for examples rather than using the basic one if the Wampler book.  This would have saved some stress and some awkward soldering.
+Firstly, and sort of a big one: check your pin layouts when using a generic footprint for a part.  This ended up loosing me 5 PCBs and SMD parts, and 2 more boards worth of board mounted parts including the switches and pots which ended up being quite an expensive loss.
 
-The next one was I didn't think enough about the specs of the components I chose.  The electrolytic caps are all over spec'd for voltage significantly.  One is rated for 250V when 25V would have been enough, by going for a more reasonable spec these might have been physically smaller and so left more room on the board.  Well if they are available, parts availability seems spotty at the moment.
+Another big one is I didn't research my power section enough.  Reading through some pedal breakdowns after I ordered the PCBs I quickly noticed the issue and so I should have looked at some other pedals for examples rather than using the basic one in the Wampler book.  This would have saved some stress but ultimately was fixed in the 1.1 boards so I "got away with it".
 
-The toggle switch also falls into this area, I opted for a micro toggle switch.  I later discovered sub-micro switches which would have been a smaller footprint and often have stubby toggles which would have been a better fit for this use case.  Though these often don't use a securing nut which I am using to hide my sins from the drilling.
+The next one was I didn't think enough about the specs of the components I chose.  The electrolytic caps are all over spec'd for voltage significantly.  One is rated for 250V when 25V would have been enough.  Again this was resolved in the 1.1 board where smaller electrolytic caps were used.
 
-I also didn't take enough care about fitting in the footswitch and the jacks.  Whilst I was careful about space for the power jack I just didn't apply the same care for the rest.  This lead to issues getting my primary choices into the enclosure.  In future I would spend the time to make out the whole inside of the enclosure when designing the PCB, perhaps going as far as to design my own daughter board and PCB mounting both the foot switch and jacks more like a production pedal.
+The toggle switch also falls into this area, I opted for a micro toggle switch.  I later discovered sub-micro switches which would have been a smaller footprint and often have stubby toggles which would have been a better fit for this use case.  Though these often don't use a securing nut which I am using to hide my sins from the drilling.  I didn't update this for 1.1 as I had bought enough for the 2nd version and didn't want to buy more.
 
-## Cost Breakdown
+I also didn't take enough care about leaving space for the footswitch and the jacks.  Whilst I was careful about space for the power jack I just didn't apply the same care for the rest.  This lead to issues getting my primary choices into the enclosure.  In future I would spend the time to make out the whole inside of the enclosure when designing the PCB, perhaps going as far as to design my own daughter board and PCB mounting both the foot switch and jacks more like a production pedal.
 
-| Item                | Cost | Qty | Total |
-|---------------------|-----:|----:|------:|
-| Hammond 1590B       | 8.84 | 1   | 8.84  |
-| RS Pro SPDT         | 1.85 | 1   | 1.85  |
-| 3PDT                | 2.25 | 1   | 2.25  |
-| 3PDT Daughter Board | 1.20 | 1   | 1.20  |
-| LED                 | 0.54 | 1   | 0.54  |
-| LED Surround        | 0.38 | 1   | 0.38  |
-| PCB                 | 4.04 | 1   | 4.04  |
-| TL072               | 0.78 | 1   | 0.78  |
-| DIP-8 Mount         | 0.20 | 1   | 0.20  |
-| DC Jack             | 0.59 | 1   | 0.59  |
-| Neutrik Mono Jack   | 3.13 | 2   | 6.26  |
-| Panasonic 47uF      | 0.38 | 2   | 0.76  |
-| Panasonic 10uF      | 0.29 | 1   | 0.29  |
-| Panasonic 1uF       | 0.30 | 2   | 0.60  |
-| Wima 100nF          | 0.48 | 4   | 1.91  |
-| Wima 220nF          | 0.73 | 1   | 0.73  |
-| Alpha 9mm A500K     | 1.70 | 1   | 1.70  |
-| Alpha 9mm B100K     | 1.70 | 1   | 1.70  |
-| Alpha 9mm B25K      | 1.70 | 1   | 1.70  |
-| Knobs               | 0.84 | 3   | 2.52  |
-| __Total__           |      |     | __38.84__ |
+Grounding, I also didn't thing about how to ground the enclosure at all.  If I had stuck with the [REAN NYS229][NYS229] jacks I was originally going to use this would have been done via the jacks.  However I ended up swapping to Neutrik NMJ4HC-S which are isolated jacks.  This means I had to fine an alternative way to do this.  I ended up adding a wire from a spare Ground hole and wrapped it under the bottom nut on the foot switch.  Not ideal but it grounds the enclosure, and so should be helping to reduce noise.  Definitely something to pay more attention to in future builds.
 
-_* Prices are inclusive of UK VAT @ 20%. Items sourced from various suppliers.  Prices do not include postage costs (around £10-15 so far) or additional items where there was a minimum order quantity. I did have a coupon for $8 off the SMD assembly which is not shown either._
-
-_As such these costs are a guide. I ordered **at least** enough components for 2 complete builds, I am only missing the jacks and enclosures for 3 more so my costs where higher.  Please remember this was an exercise in learning not getting a cheap JHS pedal._
+Not so much a lesson but an observation.  Drilling the enclosures is tricky by hand, no matter how much care you take they end up a little bit off.  Ideally I'd like a drill press to help keep the bit straight to the enclosure which should help keep them where I want them. 
 
 ## Worth it?
-Well, actual cash money? 1 pedal is quite a lot cheaper.  But I made 2 and have a bunch of stuff left over so less financially worth it than you think.
+
+Well, actual cash money? 1 pedal is quite a lot cheaper if you get it right the first time. But I screwed up and lost 2 full pedals worth of components and 5 boards all went in the bin, something like £30 went into a black bag.  Had I got it right, then building one would be cheaper than buying one but I didn't so it would have been cheaper to just buy the stupid pedal.
 
 <img class="padded center"
         alt="I'm never gonna financially recover from this"
         src="/images/jhs-overdrive-clone-build/financially_recover.jpg" />
 
-What's not factored in here is my time.  I spent between 3 and 4 hours copying the schematic and the checking it.  I don't know how long I spent on the PCB layout but it was 2-3 evenings so call it 8 hours, but almost certainly more.  I am also not counting the time spent looking at data sheets or looking up help docs on what I needed to get the boards fabbed or all kinds of time I spent on this.
+Parts for 1 pedal are around £39, but that's just the parts used.  You have to order PCBs in units of 5, I ordered extras of most/all parts so I could make mistakes, which I did so they were used up and can't be saved for future projects.  I could have saved a few £ here and there by just making the one for a start, or using cheaper caps etc.  Ultimately the raw costs for a low volume run (of 2) add up fast and saving 6p on a capacitor or 20p on a jack socket isn't going to change that.  You really need to be making enough to hit some price breaks which will bring costs down per unit.
+
+What's not factored in here is my time.  I spent between 3 and 4 hours copying the schematic and the checking it.  I don't know how long I spent on the PCB layout but it was 2-3 evenings.  I am also not counting the time spent looking at data sheets or looking up help docs on what I needed to get the boards fabbed or all kinds of time I spent on this.
 
 Also not included is equipment. I have a soldering iron, PCB holders, drill, drill bits, measuring equipment etc.  If you don't you're going to need to buy them, I got some extra equipment to make this build easier.  And that adds up quite quickly I can assure you.
 
 In all this was a lot of work to do.
 
-This is where it gets awkward.  I don't know how much of the $/£99 JHS get but they £0.00 on this one.  That's no contribution to wages, equipment, facilities, R&D, Josh's pedal collection.  Nothing.  Whilst I can't see me making a pair of these causing them to go out of business if everyone did, they would and we'd all be poorer for it.  
+That said this was never about saving money on a pedal.  This was about learning more about electronics, and building pedals. I don't overly like fuzz or vero board which are the usual starting points. These cheaply made China made PCBs have made this a much more interesting way for a single builder to get started and learn in something that is closer to what the pro's are doing.  Yes it's a bit slow, but if you just want PCBs you can have them in your hands in in a few days if you pay for good shipping.
 
-Normally for my projects I throw them up on github or something so others can use them.  I am not doing that with this.  I would feel like I am making it too easy for you.  If you want to make a "cheap" Overdrive, the above tells you how I did it.  Now you go do it. If you don't want to work for it then please buy one from [Andertons][andertons-jhs-overdrive] \| [Sweetwater][sweetwater-jhs-overdrive] \| [Amazon][amazon-jhs-overdrive].  The first two aren't affiliate links, that Amazon one is. Choose wisely.
+This is where it gets awkward.  I don't know how much of the $/£99 JHS get but they £0.00 on these.  That's no contribution to wages, equipment, facilities, R&D, Josh's pedal collection.  Nothing.  Whilst I can't see me making a pair of these causing them to go out of business if everyone did, they would and we'd all be poorer for it.  
+
+Normally for my projects I throw them up on github or something so others can use them.  I am not doing that with this.  I would feel like I am making it too easy for you.  If you want to make a "cheap" Overdrive, the above tells you how I did it.  Now you go do it. If you don't want to work for it then please buy one from [Andertons][andertons-jhs-overdrive] \| [Sweetwater][sweetwater-jhs-overdrive] \| [Amazon][amazon-jhs-overdrive].  The first two aren't affiliate links, that Amazon one is.
 
 JHS did the actual work on these, so please pay them for it.
 
 Thanks Josh for the schematic and the permission to build one.  This was a fun project and a welcome distraction from this year.
 
 [^jhsod1]: Select the item them press L.  You can multi-select items with shift which makes locking in traces and blocks of components easier.
-[^jhsod2]: I must have got this wrong as JLCPCB added more pre-manufacture.
+[^jhsod2]: I must have got this wrong as JLCPCB added more pre-manufacture. For V1.1 I just left them off and let JLC add them.
+[^jhsod3]: Pro tip: when removing an IC from a socket, REMOVE IT.  Don't leave it sat on the socket so who knows what pins connect to who knows what on the socket.  This can make them hot.  Also, throw that hot IC in the bin, not randomly on the bench.  So when you then go to clean up you don't end up with 2 identical chips, one is probably dead, and no way to tell them apart.
 
 [jhs-3-series]: https://www.jhspedals.info/3-series
 [kicad]: http://kicad-pcb.org/
