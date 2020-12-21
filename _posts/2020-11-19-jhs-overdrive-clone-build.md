@@ -8,7 +8,7 @@ tags:
  - build
  - pedal
  - electronics
-image: 
+image: /images/2020-11-19-jhs-overdrive-clone-build/IMG_3939.jpg
 ---
 
 On Friday 2nd October 2020 [JHS launched their brand new 3 Series Pedal][jhs-3-series] line.  On the 7th October Josh, and the team, did a [live stream for Sweetwater][sweetwater-demo] where they demoed these.  During that stream Josh showed the schematics for all 7 of these new pedals and said the following:
