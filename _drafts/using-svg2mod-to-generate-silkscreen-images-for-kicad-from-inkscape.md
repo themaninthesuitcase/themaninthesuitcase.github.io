@@ -9,7 +9,7 @@ tags:
  - inkscape
 image: 
 ---
-Recently I've been working with [KiCad] to design some PCBs. On some of these I have added a small logo or mono image using the built in convertor that comes with KiCad.  Depsite some of these logo's not being drawn in Inkscape to use this method you will need to. as it will comvert an SVG to the KiCad format.
+Recently I've been working with [KiCad] to design some PCBs. On some of these I have added a small logo or mono image using the built in convertor that comes with KiCad.  Depsite some of these logo's not being drawn in Inkscape to use this method you will need to. as it will convert an SVG to the KiCad format.
 
 Whilst this works the tool isn't great and does loose a significant amount of detail when converting things.
 
@@ -49,7 +49,7 @@ This done run the tool and it will generate a mod file!
 
 (run svg2mod for the input file input.svg with a precision of 1.0)
 
-If you look at the link above there are lots of options you can use like -o for the output name or -c to set the 0,0 reference to the centre.
+If you look at the link above there are lots of options you can use like -o for the output name or -c to set the 0,0 reference to the centre of the generated file.
 
 ## The letter A
 
@@ -57,7 +57,7 @@ If you look at the link above there are lots of options you can use like -o for 
 
 Not just with A but a good example, 0 is the same as was a polarity symbol I drew.  
 
-I used a font which was just the outlines, with no fill.  The way that the paths for this were genrated casused an issue in svg2mod and so you will need to fix these.  The easiest way to find out what objects caused an errorr is to add the genrated image to a pcb and see what isn't right.
+I used a font which was just the outlines, with no fill.  The way that the paths for this were generated caused an issue in svg2mod and so you will need to fix these.  The easiest way to find out what objects caused an error is to add the generated image to a pcb and see what isn't right.
 
 This is a worked example to fix the 'a' I had.  This just a lower case which I ran Path > Object to Path on.  Red shows the stroke, black the fill.
 
@@ -81,8 +81,15 @@ The quality of this tool isn't perfect, but it can't be.  The pcb files can only
 
 {svg|kicadtool|svg2mod}
 
-svg2mod has a precision argument `-p`.  The default seems to be 10.0, and the example suggests 1.0.  Precisions of > 1.0 seem to all be essenittially the same <0.1 greater detial.  make a swatch 0.1, 0.5, 1, 10 ,20
+You can see that the quality from KiCads tool leaves a lot to be desired, but the svg2mod (-q 1.0) gives a very reasonable result.  Bare in mind these are going to be about 1.5mm tall when printed so we are very much zoomed in here.
 
+svg2mod has a precision argument `-p`.  The default seems to be 10.0, and the example suggests 1.0 but there is no documentation on what the range is and what to expect to change.
+
+{results}
+
+I ran some tests lower values give higher quality. The lowest I tried was 0.1 and up to 20.0.  At 0.1 there was very minimal detail loss, which creeps in at 1.0 and by 20.0 is far more noticeable.  Even with this said you can only see this when zoomed right in, 1000% or so is what I am using to look at these differences.  At 100% scale all of this is academic.  Th
+
+Given 0.1 gives an excellent result and doesn't slow down KiCad at all I think this going to be my default setting now.
 
 [^svg2mod1]: Note this isn't the original version, but a fork.  The original version is now no longer maintained but this version is.
 
