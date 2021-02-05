@@ -7,7 +7,7 @@ tags:
  - electronics
  - kicad
  - inkscape
-image: 
+image: /images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/svgkicadsv2mod.png
 ---
 Recently I've been working with [KiCad] to design some PCBs. On some of these I have added a small logo or mono image using the built in converter that comes with KiCad.  This tool allows you to take any image, colour or mono, and convert it into something you can add to your PCB.
 
@@ -15,7 +15,7 @@ Whilst this works the tool isn't great and does loose a significant amount of de
 
 <img class="padded center"
         alt="Example of poor image quality from the KiCad converter"
-        src="/images/2021-02-04-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/PoorImageQuality.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/PoorImageQuality.png" />
 
 For a recent project I wanted to make a face plate using a PCB as it's convenient, and should be pretty durable. Sadly the built in editor wasn't giving me results I was happy with for something that will be much more visible than normal.
 
@@ -59,7 +59,7 @@ If you look at the [docs][svg2mod] there are lots of options you can use like -o
 
 <img class="padded center"
         alt="Errors from converting an SVG with unsupported paths"
-        src="/images/2021-02-04-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/ErrorMessages.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/ErrorMessages.png" />
 
 Not just with A but a good example, 0 is the same as was a polarity symbol I drew.  
 
@@ -69,19 +69,19 @@ This is a worked example to fix the 'a' I had.  This just a lower case which I r
 
 <img class="padded center"
         alt="Lower case A showing the paths before fixing."
-        src="/images/2021-02-04-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/A-outline.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/A-outline.png" />
 
 Select the affected object with the edit path tool (F2) and select Path > Break Apart.  Everything will probably go solid now and look horrid.
 
 <img class="padded center"
         alt="Lower case A after using the break apart command"
-        src="/images/2021-02-04-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/A-broken.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/A-broken.png" />
 
 To fix this you need to select the "pairs" of strokes that formed the shapes and then use Path > Difference. Do this for all objects and you will get a clean set of paths the tool can handle.
 
 <img class="padded center"
         alt="Fixed lower case A after differencing the paths to resolve the nesting issue"
-        src="/images/2021-02-04-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/A-fixed.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/A-fixed.png" />
 
 This shows it in action and is probably far easier to follow.
 
@@ -93,7 +93,7 @@ The quality of this tool isn't perfect, but it can't be.  The pcb files can only
 
 <img class="padded center"
         alt="Comparing the source SVG, KiCad conversion and svg2mod conversion"
-        src="/images/2021-02-04-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/svgkicadsv2mod.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/svgkicadsv2mod.png" />
 
 You can see that the quality from the KiCad tool leaves a lot to be desired, but the svg2mod (-q 1.0) gives a very reasonable result.  Bare in mind these are going to be about 1.5mm tall when printed so we are very much zoomed in here.
 
@@ -101,7 +101,7 @@ svg2mod has a precision argument `-p`.  The default seems to be 10.0, and the ex
 
 <img class="padded center"
         alt="Comparison of -q settings 0.1 to 20.0"
-        src="/images/2021-02-04-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/QualityComapre.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/QualityComapre.png" />
 
 I ran some tests lower values give higher quality. The lowest I tried was 0.1 and up to 20.0.  At 0.1 there was very minimal detail loss, which creeps in at 1.0 and by 20.0 is a little more noticeable.  Even with this said you can only see this when zoomed right in, 1000% or so is what I am using to look at these differences.  At 100% scale all of this is academic.  If you're struggling to see the difference you can see the rounded corner at the bottom of the + become more straight edge chamfers.
 
