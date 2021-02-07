@@ -71,7 +71,7 @@ This is a worked example to fix the 'a' I had.  This just a lower case which I r
         alt="Lower case A showing the paths before fixing."
         src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/A-outline.png" />
 
-Select the affected object with the edit path tool (F2) and select Path > Break Apart.  Everything will probably go solid now and look horrid.
+Select the affected object with the edit path tool (F2) and select Path > Break Apart.  Everything will probably go solid now and look horrid.  Things are easier to see here as I have set the stroke to a different colour.
 
 <img class="padded center"
         alt="Lower case A after using the break apart command"
@@ -93,7 +93,7 @@ The quality of this tool isn't perfect, but it can't be.  The pcb files can only
 
 <img class="padded center"
         alt="Comparing the source SVG, KiCad conversion and svg2mod conversion"
-        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/svgkicadsv2mod.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/svgkicadsvg2mod.png" />
 
 You can see that the quality from the KiCad tool leaves a lot to be desired, but the svg2mod (-q 1.0) gives a very reasonable result.  Bare in mind these are going to be about 1.5mm tall when printed so we are very much zoomed in here.
 
@@ -101,11 +101,11 @@ svg2mod has a precision argument `-p`.  The default seems to be 10.0, and the ex
 
 <img class="padded center"
         alt="Comparison of -q settings 0.1 to 20.0"
-        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/QualityComapre.png" />
+        src="/images/2021-02-05-using-svg2mod-to-generate-silkscreen-images-for-kicad-from-inkscape/QualityCompare.png" />
 
 I ran some tests lower values give higher quality. The lowest I tried was 0.1 and up to 20.0.  At 0.1 there was very minimal detail loss, which creeps in at 1.0 and by 20.0 is a little more noticeable.  Even with this said you can only see this when zoomed right in, 1000% or so is what I am using to look at these differences.  At 100% scale all of this is academic.  If you're struggling to see the difference you can see the rounded corner at the bottom of the + become more straight edge chamfers.
 
-Given the size that these will be rendered at 1.0 is probably the correct value.  However 0.1 doesn't seem to slow down the software so perhpase it's worth trying just to give the best possible result.
+Given the size that these will be rendered at 1.0 is probably the correct value.  However 0.1 doesn't seem to slow down the software so perhaps it's worth trying just to give the best possible result.
 
 [^svg2mod1]: Note this isn't the original version, but a fork.  The original version is now no longer maintained but this version is.
 
