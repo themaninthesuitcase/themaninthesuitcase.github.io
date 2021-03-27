@@ -19,7 +19,7 @@ Whilst this works the tool isn't great and does loose a significant amount of de
 
 For a recent project I wanted to make a face plate using a PCB as it's convenient, and should be pretty durable. Sadly the built in editor wasn't giving me results I was happy with for something that will be much more visible than normal.
 
-Some research found a tool called [SVG2Mod](svg2mod) [^svg2mod1] which will convert an SVG into a .kicad_mod file that I can use.
+Some research found a tool called [SVG2Mod][svg2mod] [^svg2mod1] which will convert an SVG into a .kicad_mod file that I can use.
 
 <!-- more -->
 
