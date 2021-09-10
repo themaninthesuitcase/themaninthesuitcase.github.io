@@ -53,7 +53,7 @@ The diode was thankfully an easy fix.  They had kept the original and not clippe
         src="/images/2020-12-24-Ibanez-ts5-repair/IMG_4080.jpg"
         srcset="/images/2020-12-24-Ibanez-ts5-repair/IMG_4080.jpg 1x, /images/2020-12-24-Ibanez-ts5-repair/IMG_4080-2x.jpg 2x" />
 
-Finally the resistors were replaced with some 5% carbon film resistors of the original values.  The originals were smaller probably 0.25W where these are 0.5W so they look bigger but otherwise are the same thing.
+Finally the resistors were replaced with some 5% carbon film resistors of the original values.  The originals were smaller probably 1/8W where these are 1/4W so they look bigger but otherwise are the same thing for our purposes.
 
 <img class="padded center"
         alt="New resistors with the original values"
