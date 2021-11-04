@@ -286,7 +286,7 @@ Whilst the pedal works now it was all still a bit of an anti-climax. The pedal i
 [^jhsod4]: Maybe it's actually fine and my Amplug is not liking it. I've not had time to setup my Boss Katana 50 yet as I only really get my lunch breaks to work on this at the moment.
 
 [jhs-3-series]: https://www.jhspedals.info/3-series
-[kicad]: http://kicad-pcb.org/
+[kicad]: https://www.kicad.org/
 [katana-50-post]: /2019/09/18/katana-50-footswitch/
 [sweetwater-demo]: https://youtu.be/4jtfHNw4GRo
 [wamplerpedals]: https://www.wamplerpedals.com/

@@ -75,7 +75,7 @@ In use the switch has worked really.  The amp swaps reliably and quickly when a 
 I don't plan on selling any of these, but if you want to make your own I have published all the needed files in a github repo: [KatanaSwitch][githubKatana].  If building one yourself isn't for you check out [Bright Onion Pedals][bop].
 
 [arduino]: https://www.arduino.cc/
-[KiCad]: http://kicad-pcb.org
+[KiCad]: https://www.kicad.org/
 [amdi]: /2019/07/04/andertonsmademedoit/
 [jlcpcb]: https://jlcpcb.com
 [1590BB]: http://www.hammondmfg.com/pdf/1590BB.pdf
