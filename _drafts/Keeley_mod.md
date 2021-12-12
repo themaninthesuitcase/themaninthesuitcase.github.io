@@ -12,17 +12,17 @@ tags:
 - keeley
 ---
 
-One of the more famous pedal mods is the "Keeley Mod" that Robert Keeley used to do to the Boss BD-2. This modded pedal has been used by a number of great players including John Mayer which is how I've ended up here.
+One of the more famous pedal mods is the "Keeley Mod" that Robert Keeley used to do to the Boss BD-2. This modded pedal has been used by a number of great players including John Mayer which is how I've ended up here. Keeley no longer modify pedals, so you either hove to go hunt down a used one or you can get a [Super Phat Mod][keeleysuperphatmod], which is essentially a true bypass modded BD-2.
 
 {image modded finished front}
 
-Being the person I am rather than buying a pre-modified pedal I decided to buy a standard pedal used and modify it my self.
+Being the person I am rather than buying an old pre-modified pedal I decided to buy a standard pedal used and modify it my self.
 
-If you want to do this your self then there is one gotcha. A year or so ago (2018/9 ish) Boss changed from through hole to SMD components for the BD-2. Whilst this isn't impossible to mod it's a huge amount more work and not really worth it. So hit eBay and look for a used pedal. The ones you want have the power jack in the middle of the back like below, not the ones where the jack runs along the base plate.
+If you want to do this your self then there is one gotcha. A year or so ago (2018/9 ish) Boss changed from through hole to SMD components for the BD-2. Whilst this isn't impossible to mod it's a huge amount more work and really not worth it. So hit eBay and look for an older pedal. The ones you want have the power jack in the middle of the back like below, not the ones where the jack runs along the base plate.
 
 {DC end plate photo}
 
-Older pedals in blue boxes will be fine, the change happened during the current black boxes so you can't just go "black box is no good" as earlier once will still be mod-able.
+Older pedals with blue boxes will be fine, the change happened during the current black boxes so you can't just go "black box is no good" as earlier ones will still be able to be modded.
 
 Before we start: thanks to Ryan "[The Tone Geek][ttg]" who did most of this research and I am just following from his work and a few google searches.
 
@@ -65,7 +65,7 @@ Before we start: thanks to Ryan "[The Tone Geek][ttg]" who did most of this rese
 
 My personal pedal is from 1996, they launched in 1994 so it's reasonably early. I bought it "spares or repair" from a seller in Japan as it was the cheapest way to get one. Or so I thought! I had forgotten about the tax changes post Brexit so after those were added it ended up costing more or less the same as the ones for sale in the UK. So not a big saving as hoped but a story at least.
 
-The only issue with the pedal found seems to be dirty jacks. Once cleaned with some [Servisol Super 10][amazonservisol] it has been behaving well. This is probably worth doing on any used pedal when it comes in just to help with reliability.
+The only issue with the pedal I found seems to be dirty jacks. Once cleaned with some [Servisol Super 10][amazonservisol] it has been behaving well. This is probably worth doing on any used pedal when it comes in just to help with reliability.
 
 Other than that it has the typical old Boss pedal patina and the knobs are a little loser than ideal, but fine.
 
@@ -73,12 +73,12 @@ Being an old one I was hesitant to modify it but Boss must have made thousands o
 
 ## List of Changes
 
-Over the time the mod has changed a little, my mod is based on a specific example but takes into account the research. In short there is not a single exact set of changes, but they are all reasonably close to each other. Note my mod isn't including the D3 change listed above as that wasn't in the pedal I have access to for reference.
+Over the time the mod has changed a little, my mod is based on a specific example but takes into account the research. In short there is not a single exact set of changes, but they are all reasonably close to each other. Note my mod isn't including the D3 change listed above as that wasn't in the pedal I have access to for reference. I also undid one change that I found caused an issue, see the note below.
 
 | Reference            | Boss Value                  | Keeley Mod Value                 | Notes                                                                              |
 | -------------------- | --------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
 | C14                  | 0.047uf (47nf)              | 0.1uF (100nf)                    | Input capacitor lets more bass into the circuit                                    |
-| C1 C6 C7 C12 C13 C15 | 10uf Polarized Electrolytic | 10uf Non Polarized Electrolytic  | Non-polarized caps sound better                                                    |
+| C1 C6 C7 C12 C13 C15 | 10uf Polarized Electrolytic | 10uf Non Polarized Electrolytic  | Non-polarized caps "sound better"                                                  |
 | C20 C25              | 100pf 10% ceramic           | 100pf 5% Silver Mica             | Lowers noise                                                                       |
 | C21 C23              | 47pf 10%                    | 47pf 5% Silver Mica              | Lowers noise                                                                       |
 | C26                  | 220pf 10%                   | 220pF 5% Silver Mica             | Lowers noise                                                                       |
@@ -86,17 +86,17 @@ Over the time the mod has changed a little, my mod is based on a specific exampl
 | -                    | -                           | 0.068uf (68nf) or 0.082uf (82nf) | "Phat mod" the switch adds this in parallel to C100 for more bass \*               |
 | D7 D8                | 1SS133                      | Single 1N4001                    | Adds second order harmonics                                                        |
 | LED                  | Red                         | Ultra bright blue                | Better visibility                                                                  |
-| ~~D11~~              |                             | ~~11K~~                          | ~~Yes they really did replace a diode with a resistor! This is for the LED.~~ \*\* |
+| D11                  |                             | 11K                              | Yes they really did replace a diode with a resistor! This is for the LED circuit. \*\* |
 
-\* The "phat mod", and some of the other changes seem to have evolved during the life of the "Keeley Mod". The phat mod capacitor has been both 68nf and 82nf, the larger the value the more bass you'll get so it's probably worth testing to see which you prefer.
+\* The phat mod capacitor has been both 68nf and 82nf, the larger the value the more bass you'll get so it's probably worth testing to see which you prefer.
 
-\*\* I actually undid this mod and put the factory diode back. With the resistor in place the LED was always on dimly which the diode fixes. If you want the LED dimmer change R39 for something like a 3.9K or a 10K depending how much you want to dim it.
+\*\* I actually reversed this mod and put the factory diode back. With the resistor in place the LED was always on dimly which the diode fixes. I can only assume this uis due to characteristics of the specific LEDs Keeley used. If you want the LED dimmer change R39 for something like a 3.9K or a 10K depending how much you want to dim it.
 
 {schematic, small link to large}
 
 (Click the image to open at full size)
 
-I will be using quality branded parts for all of these changes. Cornell Dublier for the silver mica, Nichicon MUSE for the non polar[^bd2modmuse], Panasonic film caps On-Semiconductor didoes and Royal Ohm resistors. The only exception to this is I messed up ordering the 82nF and got a huge 600V one for an amp, so I am using a 68nF Mylar 'Greenie', I may change this later. For the switch I have a Hongh branded switch, this is a company set up by an ex-Alpha engineer and I have found all of their parts to be very similar in quality and feel.
+I will be using quality branded parts for all of these changes. Cornell Dublier for the silver mica, Nichicon MUSE for the non polar[^bd2modmuse], Panasonic film capacitors, On-Semiconductor didoes and Royal Ohm resistors. The only exception to this is I messed up ordering the 82nF and got a huge 600V one for an amp, so I am using a 68nF Mylar 'Greenie', I may change this later. For the switch I have a Hongh branded switch, this is a company set up by an ex-Alpha engineer and I have found all of their parts to be very similar in quality and feel.
 
 Whilst you could use other cheaper items, the list isn't very long and so you're not going to save a huge amount so may as well use the high end stuff if you can get it.
 
@@ -123,17 +123,19 @@ For things like this I like to completely remove the circuit from the pedal. If 
 1. Remove the back plate, and put this and the plastic shield to the side. Use a #2 [philips] screwdriver, not a [pozidrive] and do it by hand. They are actually [JIS] #2 but you almost certainly don't have one of those and a philips is a reasonable fit, just be gentle.
 1. Put those 4 back plate screws into a cup, bowl, something that will stop them going missing. You won't be able to replace them like for like so losing them is going to suck.
 1. Unscrew the nuts for the side jacks using a 12mm socket and put them in the cup along with the washers. I like to use some [3D printed finger sockets][3dsockets] as they save me from damaging things, but a normal socket works too just hold it in your fingers. Try avoid adjustable spanners, they have a habit of damaging things.
-1. Unscrew the 3 nuts for the pots using an 11mm socket, into the cup with these and their washers.
-1. Carefully lift the board away, the DC jack will be hooked into the hole in the enclosure so will need to be slide out.
-1. Use a PH2 screw driver and remove a single screw holding the LED daughter board in place.
+2. Remove the 3 nuts for the pots using an 11mm socket, along with the washers.
+3. Carefully lift the board away, the DC jack will be hooked into the hole in the enclosure so will need to be slid out slightly.
+4. Use a PH2 screw driver and remove a single screw holding the LED daughter board in place.
 
 At this point you can remove the circuit from the case but it will still be held to it buy the battery and switch wiring. Take care removing the jack sockets as there is a star washer on each to put in the cup.
+
+If you wish you can stop disassembly here, but take care when drilling for the switch that you don't hit anything.
 
 To remove the remainder:
 
 1. Push the switch up from inside the enclosure and out. Gentle but firm pressure is needed.
-2. Carefully de-solder the 2 wires from the switch. The wires are just hooked over, once the solder is removed with a sucker a light tough with the iron will help it come away. The purple wire on mine was glued in place, I carefully cut the glue with a scalpel.
-3. Push the battery clip through the hole.
+1. Carefully de-solder the 2 wires from the switch. The wires are just hooked over, once the solder is removed with a sucker a light tough with the iron will help it come away. The purple wire on mine was glued in place, I carefully cut the glue with a scalpel.
+1. Push the battery clip through the hole.
 
 ### Changing the components
 
@@ -247,6 +249,7 @@ I may well do this next time I order some components.
 
 [ttg]: https://www.thetonegeek.com/
 [amazonservisol]: https://amzn.to/2XbVshu
+[keeleysuperphatmod]: https://robertkeeley.com/Super+Phat+Mod
 [keeleybd2]: https://web.archive.org/web/20080311111337/http://www.robertkeeley.com/product.php?id=14
 [philips]: https://en.wikipedia.org/wiki/List_of_screw_drives#Phillips
 [pozidrive]: https://en.wikipedia.org/wiki/List_of_screw_drives#Pozidriv
@@ -255,3 +258,4 @@ I may well do this next time I order some components.
 [hakkowick]: https://amzn.to/3nXdbE3
 [mgchemwick]: https://amzn.to/3E0ULYD
 [jokarisuper4]: https://amzn.to/317yKJp
+[3dsockets]: https://www.thingiverse.com/thing:3643194
