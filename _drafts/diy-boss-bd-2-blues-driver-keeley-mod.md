@@ -10,17 +10,24 @@ tags:
 - electronics
 - boss
 - keeley
+image: /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg
 ---
 
-One of the more famous pedal mods is the "Keeley Mod" that Robert Keeley used to do to the Boss BD-2. This modded pedal has been used by a number of great players including John Mayer which is how I've ended up here. Keeley no longer modify pedals, so you either hove to go hunt down a used one or you can get a [Super Phat Mod][keeleysuperphatmod], which is essentially a true bypass modded BD-2.
+One of the more famous pedal mods is the "Keeley Mod" that Robert Keeley used to do to the Boss BD-2. This modded pedal has been used by a number of great players including John Mayer which is how I've ended up here. Keeley no longer modify pedals, so you either hove to go hunt down a used one, and they will only get more expensive, or you can get a [Super Phat Mod][keeleysuperphatmod], which is essentially a true bypass modded BD-2.
 
-{image modded finished front}
+<img class="padded center"
+        alt="Modded Boss BD-2"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336-2x.jpg 2x" />
 
 Being the person I am rather than buying an old pre-modified pedal I decided to buy a standard pedal used and modify it my self.
 
-If you want to do this your self then there is one gotcha. A year or so ago (2018/9 ish) Boss changed from through hole to SMD components for the BD-2. Whilst this isn't impossible to mod it's a huge amount more work and really not worth it. So hit eBay and look for an older pedal. The ones you want have the power jack in the middle of the back like below, not the ones where the jack runs along the base plate.
+If you want to do this your self then there is one gotcha. A year or so ago (2018/9 ish) Boss changed from through hole to SMD components for the BD-2, which make this kind of mod impossible [^bd2modm1]. So hit eBay and look for an older pedal. The ones you want have the power jack in the middle of the back like below, not the ones where the jack runs along the base plate.
 
-{DC end plate photo}
+<img class="padded center"
+        alt="Comparison of DC jacks showing which pedal can be modded"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay-2x.jpg 2x" />
 
 Older pedals with blue boxes will be fine, the change happened during the current black boxes so you can't just go "black box is no good" as earlier ones will still be able to be modded.
 
@@ -75,6 +82,15 @@ Being an old one I was hesitant to modify it but Boss must have made thousands o
 
 Over the time the mod has changed a little, my mod is based on a specific example but takes into account the research. In short there is not a single exact set of changes, but they are all reasonably close to each other. Note my mod isn't including the D3 change listed above as that wasn't in the pedal I have access to for reference. I also undid one change that I found caused an issue, see the note below.
 
+[<img class="padded center"
+        alt="Annotated Boss BD-2 schematic"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-1x.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-1x.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-2x.jpg 2x" />][bossbd2schematic]
+
+<p class="text-center">(Click the image to open at full size)</p>
+  
+
+
 | Reference            | Boss Value                  | Keeley Mod Value                 | Notes                                                                              |
 | -------------------- | --------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
 | C14                  | 0.047uf (47nf)              | 0.1uF (100nf)                    | Input capacitor lets more bass into the circuit                                    |
@@ -88,15 +104,11 @@ Over the time the mod has changed a little, my mod is based on a specific exampl
 | LED                  | Red                         | Ultra bright blue                | Better visibility                                                                  |
 | D11                  |                             | 11K                              | Yes they really did replace a diode with a resistor! This is for the LED circuit. \*\* |
 
-\* The phat mod capacitor has been both 68nf and 82nf, the larger the value the more bass you'll get so it's probably worth testing to see which you prefer.
+\* *The phat mod capacitor has been both 68nf and 82nf, the larger the value the more bass you'll get so it's probably worth testing to see which you prefer.*
 
-\*\* I actually reversed this mod and put the factory diode back. With the resistor in place the LED was always on dimly which the diode fixes. I can only assume this uis due to characteristics of the specific LEDs Keeley used. If you want the LED dimmer change R39 for something like a 3.9K or a 10K depending how much you want to dim it.
+\*\* *I actually reversed this mod and put the factory diode back. With the resistor in place the LED was always on dimly which the diode fixes. I can only assume this uis due to characteristics of the specific LEDs Keeley used. If you want the LED dimmer change R39 for something like a 3.9K or a 10K depending how much you want to dim it.*
 
-{schematic, small link to large}
-
-(Click the image to open at full size)
-
-I will be using quality branded parts for all of these changes. Cornell Dublier for the silver mica, Nichicon MUSE for the non polar[^bd2modmuse], Panasonic film capacitors, On-Semiconductor didoes and Royal Ohm resistors. The only exception to this is I messed up ordering the 82nF and got a huge 600V one for an amp, so I am using a 68nF Mylar 'Greenie', I may change this later. For the switch I have a Hongh branded switch, this is a company set up by an ex-Alpha engineer and I have found all of their parts to be very similar in quality and feel.
+I will be using quality branded parts for all of these changes. Cornell Dublier for the silver mica, Nichicon MUSE for the non polar[^bd2modmuse], Panasonic film capacitors, On-Semiconductor didoes and Royal Ohm resistors. The only exception to this is I messed up ordering the 82nF and got [a huge 600V one for an amp][bigcap], so I am using a 68nF Mylar 'Greenie', I may change this later. For the switch I have a Hongh branded switch, this is a company set up by an ex-Alpha engineer and I have found all of their parts to be very similar in quality and feel.
 
 Whilst you could use other cheaper items, the list isn't very long and so you're not going to save a huge amount so may as well use the high end stuff if you can get it.
 
@@ -121,10 +133,10 @@ For things like this I like to completely remove the circuit from the pedal. If 
 
 1. First remove the knobs, they should just pull off. Mine are a bit loose so came of easily but if they are proving tough use two small tea spoons to gently leaver them off.
 1. Remove the back plate, and put this and the plastic shield to the side. Use a #2 [philips] screwdriver, not a [pozidrive] and do it by hand. They are actually [JIS] #2 but you almost certainly don't have one of those and a philips is a reasonable fit, just be gentle.
-1. Put those 4 back plate screws into a cup, bowl, something that will stop them going missing. You won't be able to replace them like for like so losing them is going to suck.
+1. Put the 4 back plate screws into a cup, bowl, something that will stop them going missing. You won't be able to replace them like for like so losing them is going to suck.
 1. Unscrew the nuts for the side jacks using a 12mm socket and put them in the cup along with the washers. I like to use some [3D printed finger sockets][3dsockets] as they save me from damaging things, but a normal socket works too just hold it in your fingers. Try avoid adjustable spanners, they have a habit of damaging things.
 2. Remove the 3 nuts for the pots using an 11mm socket, along with the washers.
-3. Carefully lift the board away, the DC jack will be hooked into the hole in the enclosure so will need to be slid out slightly.
+3. Carefully lift the board away, the DC jack will be slotted into the hole in the enclosure so will need to be slid out slightly.
 4. Use a PH2 screw driver and remove a single screw holding the LED daughter board in place.
 
 At this point you can remove the circuit from the case but it will still be held to it buy the battery and switch wiring. Take care removing the jack sockets as there is a star washer on each to put in the cup.
@@ -139,33 +151,49 @@ To remove the remainder:
 
 ### Changing the components
 
-For each component follow the following:
+Before starting prepare the electrolytic capacitors.  Using a pair of needle nose pliers bend the legs as shown, you want about 5mm between them so they fit well but leave a little wire for later.
 
-{Desoldered pads image}
+<img class="padded center"
+        alt="Prepared electrolytic capacitor"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330-2x.jpg 2x" />
 
-Before starting prep the electrolytic capacitors.  Using a pair of needle nose pliers bend the legs as shown, you want about 5mm between them so they fit well.
-
-{prepped cap}
-
-This isn't needed for the mica, the spacing is slightly wide but they fit close enough leaving a short gap to the board.  The poly caps just drop into place.
+This isn't needed for the mica capacitors, the spacing is slightly wide but they fit close enough leaving a short gap to the board.  The film caps will just drop into place.
 
 There's 2 ways to do this, remove all parts first (which is what I actually did) or a part at a time as documents below which is probably less confusing if you're less experienced.
+
+For each component do the following:
+
+<img class="padded center"
+        alt="Component pad locations"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328-2x.jpg 2x" />
 
 1. Locate the component to replace on the circuit board.  Note C100 is on the board with 2 pots on it.
 2. Now find the pads for that on the back of the board. Take your time here so you don't remove the wrong thing!
 3. Apply a little new solder. This will heat the join a bit and adds fresh flux, helping the solder flow better for removal.
-4. I like to remove the bulk with a solder sucker. Heat the joint and quickly suck away the excess.
+4. I like to remove the bulk with a solder sucker. Heat the joint and quickly suck away the excess.  Don't hold the iron on too long or the pad can lift away from the PCB.
 5. Re-tin your iron, go a little heavy, and using some solder wick apply the wick to the joint and then apply the iron.  If you have adjustable temperature, I also find I need to turn up the heat a bit for this. Watch the solder soak into the wick. Don't hold it too long or the pad may lift. Also take care to remove the wick and iron at the same time so that the wick doesn't stick to the pad and try to pull it off.
-6. With the solder removed, if you're lucky, the part will fall out. If not heat the pads and gently wiggle the part until it comes out. Boss folded over the legs on most components so you may need to carefully bend the leg with the iron tip to free it. This isn't "good practice" but it's also the easiest way to do it in my experience.
+6. With the solder removed, if you're lucky, the part will fall out. If not heat the pads and gently wiggle the part until it comes out. Boss folded over the legs on most components so you may need to carefully bend the leg up with the iron tip to free it. This isn't "*good practice*" but it's also the easiest way to do it in my experience.
 7. Use some solder wick to clean the pad of excess solder if needed.
 8. Fit the replacement component. Ensure you leave a short amount of leg on the component side, this will allow you to reposition parts later. Take care of polarity of the diodes and LED and make sure you match it with the new parts. For the 1N4001 span both the old diodes (see image below if needed).
-9. Resolder the new part and trim the leads. For capacitor C100 on the pot board do not trim the leads yet, we will do this later when we [add the phat cap][#Wiring-the-Phat-capacitor].
+9. Resolder the new part and trim the leads. For capacitor C100 on the pot board do not trim the leads yet, we will do this later when we [add the phat cap](#wiring-the-phat-capacitor).
 
-{Updated board image}
+<img class="padded center"
+        alt="Modded BD-2 pcb with updated parts"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331-2x.jpg 2x" />
+
+This photo shows D11 replaced with an 11K metal film resistor, this was later swapped back to the original diode.
 
 ### Drilling the enclosure
 
 This is reasonably straight forward but I could have done a better job.
+
+<img class="padded center"
+        alt="Marking out to drill the switch"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313-2x.jpg 2x" />
 
 1. Put some masking tape on the face to the right of the word "Gain".
 2. Mark a line along the center of the word Gain, I found this to be 7.5mm from the bottom edge.
@@ -174,40 +202,47 @@ This is reasonably straight forward but I could have done a better job.
 5. Drill out with a small diameter drill bit as a pilot hole, I used a 1.8mm. This is where I went wrong as even with the punch it drifted about 1mm down.  Not a disaster but not the position I went for. A better center punch mark would probably have helped reduce this. Once a pilot hole is off you'll struggle to correct it.
 6. Work your way up to a 6mm hole, I went 1.8mm, 2.5mm, 3mm, then swapped to a step bit for 4, 5, 6mm.
 
-{marking}
+<img class="padded center"
+        alt="Completed phat switch"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317-2x.jpg 2x" />
 
 Check that the switch fits in the hole. I chose to omit the external washer and set the nuts so that the out side one is mostly flush and hides the thread.
 
-{finished switch mount}
-
 ### Wiring the Phat capacitor
 
-{part soldered cap and wire}
+<img class="padded center"
+        alt="Phat capacitor connection to tone pot board"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333-2x.jpg 2x" />
 
 1. Take the short length of wire and strip around 5mm off one end.
 2. Twist the strands and lightly tin the end.
 3. Bend a small hook half way down the tinned end, this will hook over the end of the leg of C100.
-4. Hook over the wire as shown below and solder in place.  
+4. Hook over the wire as shown above and solder in place.  
 5. Trim any excess wire.
-6. Bend the legs of the capacitor to form a straight "wire".
-7. Slide around 1cm of heat shrink onto each leg and bend in a hook as before with the wire.
+6. Bend the legs of the capacitor to form a straight "wire" as above.
+7. Slide around 1cm (~3/8 inch) of heat shrink onto each leg of the capacitor and bend in a hook at each end.
 8. Hook one end of the capacitor over the leg of C100 and solder.
-9. Trim the legs of C100, but leave a little spare in case you want to swap the phat cap in future so you have a bit more to work with.
-10. With the switch and pot board in place, hook the free end of the capacitor into the middle lug and solder in place.
+9. Trim the legs of C100. You may want to leave a little spare in case you want to swap the phat cap in future so you have a bit more to work with.
+10. With the switch and pot board in place, hook the free end of the capacitor into the middle switch lug and solder in place.
 11. Take the wire and run it along side the capacitor.
 12. Trim to length, the strip and tin the end as before.
 13. Hook through the bottom lug on the switch.
 14. Trim any excess wire.
 
-{finished switch wiring}
+<img class="padded center"
+        alt="Completed phat switch wiring"
+        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335.jpg"
+        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335-2x.jpg 2x" />
 
 ### Re-assembly
 
-Assembly is the reverse of disassembly as the Haynes manual used to say.
+Assembly is the reverse of disassembly as the Haynes manuals used to say.
 
 I started with the pots, then followed with the LED board. Next add in the jack sockets, remembering they both need a lock washer on the inside.  Take care when fitting things back as whilst there is spare wire there isn't tons. Also whilst swapping things you make have looped wires though each other, if so you will need to feed things through carefully.
 
-Feed the battery clip back through the hole followed by the 2 wires for the switch.  FINISH THIS
+Feed the battery clip back through the hole followed by the 2 wires for the switch. Resolder the wires to tha back of the switch.  I added a dab of hot glue to replace the cut glue on the purple wire. Carefully push the switch back into place taking care not to pinch the battery clip wires.
 
 Finally offer up the main board.  You will need to tuck the jack socket in first then lower the front, and be gentle.  Some of the new components may foul on the switch or other parts, this will mainly be the 10uF electrolytic capacitors. If this happens look under the board and see what is hitting.  For me it was mostly the caps on the switch side and the new C14.  Gently bend these away from what they are hitting and the board should more or less drop in.
 
@@ -235,6 +270,9 @@ With the switch in the centre (off) you will have no phat cap in place. When tog
 I may well do this next time I order some components.
 
 <style>
+  li {
+    padding: 3px;
+  }
   th, td {
     border-bottom: 1px solid #ddd;
     padding: 3px;
@@ -244,6 +282,8 @@ I may well do this next time I order some components.
     font-style: italic;
   }
 </style>
+
+[^bd2modm1]: You **CAN** mod surface mount, but your options are far more limited or require far more determination.
 
 [^bd2modmuse]: The pedal I have good photos of didn't use MUSE but another Nichicon range. However I have seen phots of Keeley modded pedals with the MUSE series capacitors. Also they are green.
 
@@ -259,3 +299,5 @@ I may well do this next time I order some components.
 [mgchemwick]: https://amzn.to/3E0ULYD
 [jokarisuper4]: https://amzn.to/317yKJp
 [3dsockets]: https://www.thingiverse.com/thing:3643194
+[bossbd2schematic]: /images/diy-boss-bd-2-blues-driver-keeley-mod/Boss-BD-2-annotated.jpg
+[bigcap]: /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_6412-2x.jpg
