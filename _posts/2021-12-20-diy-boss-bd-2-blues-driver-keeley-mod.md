@@ -13,7 +13,7 @@ tags:
 image: /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg
 ---
 
-One of the more famous pedal mods is the "Keeley Mod" that Robert Keeley used to do to the Boss BD-2. This modded pedal has been used by a number of great players including John Mayer which is how I've ended up here. Keeley no longer modify pedals, so you either hove to go hunt down a used one, and they will only get more expensive, or you can get a [Super Phat Mod][keeleysuperphatmod], which is essentially a true bypass modded BD-2.
+One of the more famous pedal mods is the "Keeley Mod" that Robert Keeley used to do to the Boss BD-2. This modded pedal has been used by a number of great players including John Mayer which is how I've ended up here. Keeley no longer modify pedals, so you either have to go hunt down a used one, and they will only get more expensive, or you can get a [Super Phat Mod][keeleysuperphatmod], which is essentially a true bypass modded BD-2.
 
 <img class="padded center"
         alt="Modded Boss BD-2"
