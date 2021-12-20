@@ -10,15 +10,15 @@ tags:
 - electronics
 - boss
 - keeley
-image: /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg
+image: /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg
 ---
 
 One of the more famous pedal mods is the "Keeley Mod" that Robert Keeley used to do to the Boss BD-2. This modded pedal has been used by a number of great players including John Mayer which is how I've ended up here. Keeley no longer modify pedals, so you either hove to go hunt down a used one, and they will only get more expensive, or you can get a [Super Phat Mod][keeleysuperphatmod], which is essentially a true bypass modded BD-2.
 
 <img class="padded center"
         alt="Modded Boss BD-2"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7336-2x.jpg 2x" />
 
 Being the person I am rather than buying an old pre-modified pedal I decided to buy a standard pedal used and modify it my self.
 
@@ -26,8 +26,8 @@ If you want to do this your self then there is one gotcha. A year or so ago (201
 
 <img class="padded center"
         alt="Comparison of DC jacks showing which pedal can be modded"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/KeeleyMod-Okay-2x.jpg 2x" />
 
 Older pedals with blue boxes will be fine, the change happened during the current black boxes so you can't just go "black box is no good" as earlier ones will still be able to be modded.
 
@@ -84,8 +84,8 @@ Over the time the mod has changed a little, my mod is based on a specific exampl
 
 [<img class="padded center"
         alt="Annotated Boss BD-2 schematic"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-1x.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-1x.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-2x.jpg 2x" />][bossbd2schematic]
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-1x.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-1x.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/Boss BD-2-annotated-2x.jpg 2x" />][bossbd2schematic]
 
 <p class="text-center">(Click the image to open at full size)</p>
   
@@ -155,8 +155,8 @@ Before starting prepare the electrolytic capacitors.  Using a pair of needle nos
 
 <img class="padded center"
         alt="Prepared electrolytic capacitor"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330-2x.jpg 2x" />
 
 This isn't needed for the mica capacitors, the spacing is slightly wide but they fit close enough leaving a short gap to the board.  The film caps will just drop into place.
 
@@ -166,8 +166,8 @@ For each component do the following:
 
 <img class="padded center"
         alt="Component pad locations"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328-2x.jpg 2x" />
 
 1. Locate the component to replace on the circuit board.  Note C100 is on the board with 2 pots on it.
 2. Now find the pads for that on the back of the board. Take your time here so you don't remove the wrong thing!
@@ -181,8 +181,8 @@ For each component do the following:
 
 <img class="padded center"
         alt="Modded BD-2 pcb with updated parts"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7331-2x.jpg 2x" />
 
 This photo shows D11 replaced with an 11K metal film resistor, this was later swapped back to the original diode.
 
@@ -192,8 +192,8 @@ This is reasonably straight forward but I could have done a better job.
 
 <img class="padded center"
         alt="Marking out to drill the switch"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7313-2x.jpg 2x" />
 
 1. Put some masking tape on the face to the right of the word "Gain".
 2. Mark a line along the center of the word Gain, I found this to be 7.5mm from the bottom edge.
@@ -204,8 +204,8 @@ This is reasonably straight forward but I could have done a better job.
 
 <img class="padded center"
         alt="Completed phat switch"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7317-2x.jpg 2x" />
 
 Check that the switch fits in the hole. I chose to omit the external washer and set the nuts so that the out side one is mostly flush and hides the thread.
 
@@ -213,8 +213,8 @@ Check that the switch fits in the hole. I chose to omit the external washer and 
 
 <img class="padded center"
         alt="Phat capacitor connection to tone pot board"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7333-2x.jpg 2x" />
 
 1. Take the short length of wire and strip around 5mm off one end.
 2. Twist the strands and lightly tin the end.
@@ -233,8 +233,8 @@ Check that the switch fits in the hole. I chose to omit the external washer and 
 
 <img class="padded center"
         alt="Completed phat switch wiring"
-        src="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335.jpg"
-        srcset="/images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335.jpg 1x, /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335-2x.jpg 2x" />
+        src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335.jpg"
+        srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7335-2x.jpg 2x" />
 
 ### Re-assembly
 
@@ -252,12 +252,9 @@ You're done, go test it out!
 
 ## Demo
 
-I opted for a 68nF phat cap in this build.
+This is a quick demo, not sure it shows a lot and I'll apologise for the playing. I'm a better builder than I am a player!
 
-video
-
-opinions?
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4MiPFYiSme0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Phat mod, erm mod
 
@@ -299,5 +296,5 @@ I may well do this next time I order some components.
 [mgchemwick]: https://amzn.to/3E0ULYD
 [jokarisuper4]: https://amzn.to/317yKJp
 [3dsockets]: https://www.thingiverse.com/thing:3643194
-[bossbd2schematic]: /images/diy-boss-bd-2-blues-driver-keeley-mod/Boss-BD-2-annotated.jpg
-[bigcap]: /images/diy-boss-bd-2-blues-driver-keeley-mod/IMG_6412-2x.jpg
+[bossbd2schematic]: /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/Boss-BD-2-annotated.jpg
+[bigcap]: /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_6412-2x.jpg
