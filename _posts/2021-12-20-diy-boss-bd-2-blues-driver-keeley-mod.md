@@ -93,13 +93,13 @@ Over the time the mod has changed a little, my mod is based on a specific exampl
 
 | Reference            | Boss Value                  | Keeley Mod Value                 | Notes                                                                              |
 | -------------------- | --------------------------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| C14                  | 0.047uf (47nf)              | 0.1uF (100nf)                    | Input capacitor lets more bass into the circuit                                    |
-| C1 C6 C7 C12 C13 C15 | 10uf Polarized Electrolytic | 10uf Non Polarized Electrolytic  | Non-polarized caps "sound better"                                                  |
-| C20 C25              | 100pf 10% ceramic           | 100pf 5% Silver Mica             | Lowers noise                                                                       |
-| C21 C23              | 47pf 10%                    | 47pf 5% Silver Mica              | Lowers noise                                                                       |
-| C26                  | 220pf 10%                   | 220pF 5% Silver Mica             | Lowers noise                                                                       |
-| C100                 | 0.018uF (18nf) 10%          |                                  | Adds "a little more lower-midrange and bass frequencies through the tone section"  |
-| -                    | -                           | 0.068uf (68nf) or 0.082uf (82nf) | "Phat mod" the switch adds this in parallel to C100 for more bass \*               |
+| C14                  | 0.047uF (47nF)              | 0.1uF (100nF)                    | Input capacitor lets more bass into the circuit                                    |
+| C1 C6 C7 C12 C13 C15 | 10uF Polarized Electrolytic | 10uF Non Polarized Electrolytic  | Non-polarized caps "sound better"                                                  |
+| C20 C25              | 100pF 10% ceramic           | 100pF 5% Silver Mica             | Lowers noise                                                                       |
+| C21 C23              | 47pF 10%                    | 47pF 5% Silver Mica              | Lowers noise                                                                       |
+| C26                  | 220pF 10%                   | 220pF 5% Silver Mica             | Lowers noise                                                                       |
+| C100                 | 0.018uF (18nF) 10%          | 0.033uF (33nF)                   | Adds "a little more lower-midrange and bass frequencies through the tone section"  |
+| -                    | -                           | 0.068uF (68nF) or 0.082uF (82nF) | "Phat mod" the switch adds this in parallel to C100 for more bass \*               |
 | D7 D8                | 1SS133                      | Single 1N4001                    | Adds second order harmonics                                                        |
 | LED                  | Red                         | Ultra bright blue                | Better visibility                                                                  |
 | D11                  |                             | 11K                              | Yes they really did replace a diode with a resistor! This is for the LED circuit. \*\* |
@@ -151,14 +151,14 @@ To remove the remainder:
 
 ### Changing the components
 
-Before starting prepare the electrolytic capacitors.  Using a pair of needle nose pliers bend the legs as shown, you want about 5mm between them so they fit well but leave a little wire for later.
+Before starting prepare the electrolytic capacitors. Using a pair of needle nose pliers bend the legs as shown, you want about 5mm between them so they fit well but leave a little wire for later.
 
 <img class="padded center"
         alt="Prepared electrolytic capacitor"
         src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330.jpg"
         srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7330-2x.jpg 2x" />
 
-This isn't needed for the mica capacitors, the spacing is slightly wide but they fit close enough leaving a short gap to the board.  The film caps will just drop into place.
+This isn't needed for the mica capacitors, the spacing is slightly wide but they fit close enough leaving a short gap to the board. The film caps will just drop into place.
 
 There's 2 ways to do this, remove all parts first (which is what I actually did) or a part at a time as documents below which is probably less confusing if you're less experienced.
 
@@ -169,11 +169,11 @@ For each component do the following:
         src="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328.jpg"
         srcset="/images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328.jpg 1x, /images/2021-12-20-diy-boss-bd-2-blues-driver-keeley-mod/IMG_7328-2x.jpg 2x" />
 
-1. Locate the component to replace on the circuit board.  Note C100 is on the board with 2 pots on it.
+1. Locate the component to replace on the circuit board. Note C100 is on the board with 2 pots on it.
 2. Now find the pads for that on the back of the board. Take your time here so you don't remove the wrong thing!
 3. Apply a little new solder. This will heat the join a bit and adds fresh flux, helping the solder flow better for removal.
-4. I like to remove the bulk with a solder sucker. Heat the joint and quickly suck away the excess.  Don't hold the iron on too long or the pad can lift away from the PCB.
-5. Re-tin your iron, go a little heavy, and using some solder wick apply the wick to the joint and then apply the iron.  If you have adjustable temperature, I also find I need to turn up the heat a bit for this. Watch the solder soak into the wick. Don't hold it too long or the pad may lift. Also take care to remove the wick and iron at the same time so that the wick doesn't stick to the pad and try to pull it off.
+4. I like to remove the bulk with a solder sucker. Heat the joint and quickly suck away the excess. Don't hold the iron on too long or the pad can lift away from the PCB.
+5. Re-tin your iron, go a little heavy, and using some solder wick apply the wick to the joint and then apply the iron. If you have adjustable temperature, I also find I need to turn up the heat a bit for this. Watch the solder soak into the wick. Don't hold it too long or the pad may lift. Also take care to remove the wick and iron at the same time so that the wick doesn't stick to the pad and try to pull it off.
 6. With the solder removed, if you're lucky, the part will fall out. If not heat the pads and gently wiggle the part until it comes out. Boss folded over the legs on most components so you may need to carefully bend the leg up with the iron tip to free it. This isn't "*good practice*" but it's also the easiest way to do it in my experience.
 7. Use some solder wick to clean the pad of excess solder if needed.
 8. Fit the replacement component. Ensure you leave a short amount of leg on the component side, this will allow you to reposition parts later. Take care of polarity of the diodes and LED and make sure you match it with the new parts. For the 1N4001 span both the old diodes (see image below if needed).
@@ -199,7 +199,7 @@ This is reasonably straight forward but I could have done a better job.
 2. Mark a line along the center of the word Gain, I found this to be 7.5mm from the bottom edge.
 3. Mark the point 5mm from the N in gain towards the edge.
 4. Centre punch the cross.
-5. Drill out with a small diameter drill bit as a pilot hole, I used a 1.8mm. This is where I went wrong as even with the punch it drifted about 1mm down.  Not a disaster but not the position I went for. A better center punch mark would probably have helped reduce this. Once a pilot hole is off you'll struggle to correct it.
+5. Drill out with a small diameter drill bit as a pilot hole, I used a 1.8mm. This is where I went wrong as even with the punch it drifted about 1mm down. Not a disaster but not the position I went for. A better center punch mark would probably have helped reduce this. Once a pilot hole is off you'll struggle to correct it.
 6. Work your way up to a 6mm hole, I went 1.8mm, 2.5mm, 3mm, then swapped to a step bit for 4, 5, 6mm.
 
 <img class="padded center"
@@ -219,7 +219,7 @@ Check that the switch fits in the hole. I chose to omit the external washer and 
 1. Take the short length of wire and strip around 5mm off one end.
 2. Twist the strands and lightly tin the end.
 3. Bend a small hook half way down the tinned end, this will hook over the end of the leg of C100.
-4. Hook over the wire as shown above and solder in place.  
+4. Hook over the wire as shown above and solder in place. 
 5. Trim any excess wire.
 6. Bend the legs of the capacitor to form a straight "wire" as above.
 7. Slide around 1cm (~3/8 inch) of heat shrink onto each leg of the capacitor and bend in a hook at each end.
@@ -240,11 +240,11 @@ Check that the switch fits in the hole. I chose to omit the external washer and 
 
 Assembly is the reverse of disassembly as the Haynes manuals used to say.
 
-I started with the pots, then followed with the LED board. Next add in the jack sockets, remembering they both need a lock washer on the inside.  Take care when fitting things back as whilst there is spare wire there isn't tons. Also whilst swapping things you make have looped wires though each other, if so you will need to feed things through carefully.
+I started with the pots, then followed with the LED board. Next add in the jack sockets, remembering they both need a lock washer on the inside. Take care when fitting things back as whilst there is spare wire there isn't tons. Also whilst swapping things you make have looped wires though each other, if so you will need to feed things through carefully.
 
-Feed the battery clip back through the hole followed by the 2 wires for the switch. Resolder the wires to tha back of the switch.  I added a dab of hot glue to replace the cut glue on the purple wire. Carefully push the switch back into place taking care not to pinch the battery clip wires.
+Feed the battery clip back through the hole followed by the 2 wires for the switch. Resolder the wires to tha back of the switch. I added a dab of hot glue to replace the cut glue on the purple wire. Carefully push the switch back into place taking care not to pinch the battery clip wires.
 
-Finally offer up the main board.  You will need to tuck the jack socket in first then lower the front, and be gentle.  Some of the new components may foul on the switch or other parts, this will mainly be the 10uF electrolytic capacitors. If this happens look under the board and see what is hitting.  For me it was mostly the caps on the switch side and the new C14.  Gently bend these away from what they are hitting and the board should more or less drop in.
+Finally offer up the main board. You will need to tuck the jack socket in first then lower the front, and be gentle. Some of the new components may foul on the switch or other parts, this will mainly be the 10uF electrolytic capacitors. If this happens look under the board and see what is hitting. For me it was mostly the caps on the switch side and the new C14. Gently bend these away from what they are hitting and the board should more or less drop in.
 
 Lastly put back the plastic insulator, screw on the back plate and push on the knobs.
 
@@ -262,7 +262,7 @@ Surprising to myself I quite liked the phat mode on, but it's reasonably subtle.
 
 To do this you will need a SPDT switch but with on-off-on switching. Attach both capacitors to the same point on C100, then attach one capacitor to each of the end lugs. The wire connects to the center lug.
 
-With the switch in the centre (off) you will have no phat cap in place. When toggled you get one of the phat caps of your choice. The way the switch works you will get the opposite lug to the switch, e.g. if the toggle is down on the outside then you get the top lug.  I'd probably put the 68nf to the lower lug, and the 82nF to the upper lug.  This would give lower bass, off, more bass top to bottom.
+With the switch in the centre (off) you will have no phat cap in place. When toggled you get one of the phat caps of your choice. The way the switch works you will get the opposite lug to the switch, e.g. if the toggle is down on the outside then you get the top lug. I'd probably put the 68nf to the lower lug, and the 82nF to the upper lug. This would give lower bass, off, more bass top to bottom.
 
 I may well do this next time I order some components.
 
