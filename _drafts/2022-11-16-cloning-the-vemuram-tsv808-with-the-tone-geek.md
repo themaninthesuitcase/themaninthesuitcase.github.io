@@ -10,7 +10,7 @@ tags:
 - vemuram
 - ibanez
 - tubescreamer
-image: /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8962.jpeg
+image: /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8962.jpeg
 ---
 
 The Vemuram TSV808 is a sort of modified of a Tubescreamer/JanRay hybrid. It's also incredibly high end. Initially selling for $499, if you could get one in the limited release, and are now being listed on the [used market for £1200-£1800 or more.][reverbtsv808]
@@ -24,10 +24,10 @@ As I was doing this my wife re-drew the board layout to be a bit more legible wh
 
 <img class="padded center"
         alt="Starting to build the bread board"
-        src="/images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8729.jpeg"
+        src="/images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8729.jpeg"
         srcset="
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8729.jpeg 1x, 
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8729-2x.jpeg 2x" />
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8729.jpeg 1x, 
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8729-2x.jpeg 2x" />
 
 <!-- more -->
 
@@ -35,10 +35,10 @@ With a schematic in place it was time to try bread boarding it. I printed the sc
 
 <img class="padded center"
         alt="Testing the first completed breadboard"
-        src="/images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8734.jpeg"
+        src="/images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8734.jpeg"
         srcset="
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8734.jpeg 1x, 
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8734-2x.jpeg 2x" />
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8734.jpeg 1x, 
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8734-2x.jpeg 2x" />
 
 With the first prototype complete I ordered the parts I did not have to hand and fixed an issue where I had the Gain pot backwards. Due to the COVID parts shortages I couldn't get trim pots with thumb knobs and made do with some that need a screw driver.
 
@@ -60,28 +60,28 @@ Before the order went in I did one last thing. I hate hand wiring foot switches 
 
 <img class="padded center"
         alt="Checking the layout of the daughter board"
-        src="/images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/Daughter.jpeg"
+        src="/images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/Daughter.jpeg"
         srcset="
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/Daughter.jpeg 1x, 
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/Daughter-2x.jpeg 2x" />
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/Daughter.jpeg 1x, 
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/Daughter-2x.jpeg 2x" />
 
 Pretty soon stuff started arriving and I was able to build up the first ATS808 using the Tayda BOM to prove it. It worked! but there was 1 small issue: the volume pot was backwards.  This was fed back to Ryan and fixed going forwards.  Fortunately this is an easy fix with some wire to "flip" the pot.
 
 <img class="padded center"
         alt="The first completed ATS808 using the Tayda parts"
-        src="/images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8962.jpeg"
+        src="/images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8962.jpeg"
         srcset="
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8962.jpeg 1x, 
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8962-2x.jpeg 2x" />
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8962.jpeg 1x, 
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_8962-2x.jpeg 2x" />
 
 I used this for a while before building a 2nd using the accurate parts into a hammered copper enclosure which looks fantastic. I still haven't gotten round to ordering the correct OPA2134 chip so I am currently using a 4558DD.
 
 <img class="padded center"
         alt="Completed prototype and hammered copper ATS-808 pedals"
-        src="/images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_0337.jpeg"
+        src="/images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_0337.jpeg"
         srcset="
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_0337.jpeg 1x, 
-            /images/2022-11-16-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_0337-2x.jpeg 2x" />
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_0337.jpeg 1x, 
+            /images/2022-12-18-cloning-the-vemuram-tsv808-with-the-tone-geek/IMG_0337-2x.jpeg 2x" />
 
 If you wish to buy your own ATS808, either as a kit or built, check out [The Tone Geek Shop][ttgshop] where you can purchase not just the ATS808, but also a number of other products that are all excellent. I have the VS10, mk1 AP2 as well as the Black Triangle (which I still need to build).
 
