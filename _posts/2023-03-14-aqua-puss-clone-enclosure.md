@@ -1,6 +1,6 @@
 ---
 title: 1590BB Enclosure for Tone Geek Aqua-Puss mk1 AP2 
-description: Custom enclosure for the Tone Geek Aqua Puss
+description: Custom enclosure for the Tone Geek Aqua-Puss
 categories:
  - guitar
 tags:
@@ -10,7 +10,7 @@ tags:
  - wayhuge
  - aquapuss
  - delay
-image: /images/2023-03-00-aqua-puss-clone-enclosure/CJP20210703-21039-2x.jpeg
+image: /images/2023-03-14-aqua-puss-clone-enclosure/CJP20210703-21039-2x.jpeg
 ---
 
 I was lucky enough to get one of the first batch of PCBs for a [Tone Geek mk1 AP2 Aqua Puss][ttgap2].  This is a faithful replica of the infamous Way Huge Aqua Puss, the mk1 AP-2.  There is an earlier AP-1 but thats true rocking horse poo. If you're reading this you probably know what this is.
@@ -21,10 +21,10 @@ Whilst working on a Klone I made a discovery, it would fit inside a 1590BB. **Ju
 
 <img class="padded center"
     alt="AP2 PCB inside of a test 1590BB enclosure"
-    src="/images/2023-03-00-aqua-puss-clone-enclosure/IMG_4913.jpeg"
+    src="/images/2023-03-14-aqua-puss-clone-enclosure/IMG_4913.jpeg"
     srcset="
-        /images/2023-03-00-aqua-puss-clone-enclosure/IMG_4913.jpeg 1x,
-        /images/2023-03-00-aqua-puss-clone-enclosure/IMG_4913-2x.jpeg 2x" />
+        /images/2023-03-14-aqua-puss-clone-enclosure/IMG_4913.jpeg 1x,
+        /images/2023-03-14-aqua-puss-clone-enclosure/IMG_4913-2x.jpeg 2x" />
 
 After a lot of trial and error, involving cad models, 3D printed tests and 1 wrong metal enclosure I got it to fit.  **Just**.
 
@@ -36,10 +36,10 @@ Do not use the PCB insulator boards, they add height you don't have. Instead use
 
 <img class="padded center"
     alt="Pots with vinyl applied for insulation"
-    src="/images/2023-03-00-aqua-puss-clone-enclosure/IMG_5424.jpeg"
+    src="/images/2023-03-14-aqua-puss-clone-enclosure/IMG_5424.jpeg"
     srcset="
-        /images/2023-03-00-aqua-puss-clone-enclosure/IMG_5424.jpeg 1x,
-        /images/2023-03-00-aqua-puss-clone-enclosure/IMG_5424-2x.jpeg 2x" />
+        /images/2023-03-14-aqua-puss-clone-enclosure/IMG_5424.jpeg 1x,
+        /images/2023-03-14-aqua-puss-clone-enclosure/IMG_5424-2x.jpeg 2x" />
 
 Make sure the big electro caps are firmly seated as these are the high points and there's not much clearance.
 
@@ -49,28 +49,28 @@ With it all assembled you have about 1.5mm clearance between the PCB and the arm
 
 <img class="padded center"
     alt="Inserted jack only just clears the PCB"
-    src="/images/2023-03-00-aqua-puss-clone-enclosure/IMG_1779.jpeg"
+    src="/images/2023-03-14-aqua-puss-clone-enclosure/IMG_1779.jpeg"
     srcset="
-        /images/2023-03-00-aqua-puss-clone-enclosure/IMG_1779.jpeg 1x,
-        /images/2023-03-00-aqua-puss-clone-enclosure/IMG_1779-2x.jpeg 2x" />
+        /images/2023-03-14-aqua-puss-clone-enclosure/IMG_1779.jpeg 1x,
+        /images/2023-03-14-aqua-puss-clone-enclosure/IMG_1779-2x.jpeg 2x" />
 
 On my most recent build I discovered a small change had been made to the Tayda enclosure lids. The older one had 2 small notches in the lid around 0.6mm deep. These gave the perfect amount of clearance when doing the final tests for a 2nd attempt. It's possible to address this with a small file to manually add the notch back in. Being so small and shallow this doesn't take long. The Tayda drill project has since been adjusted by 0.5mm which should be enough to resolve this with out going too far and hitting the PCB.
 
 <img class="padded center"
     alt="Factory notched lid next to a manually notched one"
-    src="/images/2023-03-00-aqua-puss-clone-enclosure/IMG_1406.jpeg"
+    src="/images/2023-03-14-aqua-puss-clone-enclosure/IMG_1406.jpeg"
     srcset="
-        /images/2023-03-00-aqua-puss-clone-enclosure/IMG_1406.jpeg 1x,
-        /images/2023-03-00-aqua-puss-clone-enclosure/IMG_1406-2x.jpeg 2x" />
+        /images/2023-03-14-aqua-puss-clone-enclosure/IMG_1406.jpeg 1x,
+        /images/2023-03-14-aqua-puss-clone-enclosure/IMG_1406-2x.jpeg 2x" />
 
 If you'd like one for your build, you can order it from Tayda ready to use.
 
 <img class="padded center"
     alt="Completed AP-2 Pedal"
-    src="/images/2023-03-00-aqua-puss-clone-enclosure/CJP20210703-21039.jpeg"
+    src="/images/2023-03-14-aqua-puss-clone-enclosure/CJP20210703-21039.jpeg"
     srcset="
-        /images/2023-03-00-aqua-puss-clone-enclosure/CJP20210703-21039.jpeg 1x,
-        /images/2023-03-00-aqua-puss-clone-enclosure/CJP20210703-21039-2x.jpeg 2x" />
+        /images/2023-03-14-aqua-puss-clone-enclosure/CJP20210703-21039.jpeg 1x,
+        /images/2023-03-14-aqua-puss-clone-enclosure/CJP20210703-21039-2x.jpeg 2x" />
 
 The knobs used are generic "klon style" black knobs for the main 2, with a Davies Moulding 1400 in the middle. This is a better match to the bigger knobs than the generic options. The [Davies Moulding 1470AQ](https://www.mouser.co.uk/ProductDetail/5164-1470AQ) for the main knobs, and [1400](https://www.mouser.co.uk/ProductDetail/5164-1400) are available from Mouser when in stock.
 
@@ -90,10 +90,10 @@ Once you have paid for your order of enclosure, drilling, UV and gloss you have 
 
 <img class="padded center"
     alt="Tayda toolbox settings for UV printing"
-    src="/images/2023-03-00-aqua-puss-clone-enclosure/Tayda UV Settings.png"
+    src="/images/2023-03-14-aqua-puss-clone-enclosure/Tayda UV Settings.png"
     srcset="
-        /images/2023-03-00-aqua-puss-clone-enclosure/Tayda-UV-Settings.png 1x,
-        /images/2023-03-00-aqua-puss-clone-enclosure/Tayda-UV-Settings-2x.png 2x"/>
+        /images/2023-03-14-aqua-puss-clone-enclosure/Tayda-UV-Settings.png 1x,
+        /images/2023-03-14-aqua-puss-clone-enclosure/Tayda-UV-Settings-2x.png 2x"/>
 
 After 15 minutes you will be able to create a drill job in the [Tayda toolbox](https://drill.taydakits.com/dashboard). Pick the drill layout and UV layout created above and submit it. 
 
@@ -115,4 +115,4 @@ The PDF required for UV printing is here: [uv layout][ap2pdf] _(includes black d
 [taydauv]: https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service/1590bb-uv-printing-service.html
 [taydagloss]: https://www.taydaelectronics.com/hardware/enclosures/enclosure-uv-printing-service/custom-uv-gloss-layer-service.html
 [taydalumburg]: https://www.taydaelectronics.com/hardware/6-35mm-1-4-plugs-jacks/6-35mm-1-4-mono-phone-jack-socket.html
-[ap2pdf]: /images/2023-03-00-aqua-puss-clone-enclosure/AquaPuss - BW - FOR TAYDA.pdf
+[ap2pdf]: /images/2023-03-14-aqua-puss-clone-enclosure/AquaPuss - BW - FOR TAYDA.pdf
