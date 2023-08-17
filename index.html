@@ -9,7 +9,10 @@ layout: default
         <a href="{{post.url}}">
           <h1 class="post-title">{{ post.title }}</h1>
         </a>
-        <p class="post-meta"><i class="far fa-calendar"></i> {{ post.date | date: "%B %-d, %Y" }}</p>
+        <p class="post-meta">
+          <i class="far fa-calendar"></i> {{ post.date | date: "%B %-d, %Y" }}
+          {% if post.description %}<span class="text-muted">{{ post.description }}</span> {% endif %}
+        </p>
       </header>
 
       {% if post.content == post.excerpt %}
