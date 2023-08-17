@@ -1,6 +1,6 @@
 ---
 title: "JHS Overdrive Clone Build"
-description: "A officially sanctioned act of pedal piracy"
+description: "An officially sanctioned act of pedal piracy"
 categories:
  - guitar
 tags:
