@@ -1,7 +1,0 @@
-<h4>Categories</h4>
-<ul>
-    {% for category in site.categories %}
-    <li><a href="/category/{{category | first| downcase}}">{{category | first | capitalize }}</a> <span class="badge">{{category | last | size}}</span></li>
-{% endfor %}
-</ul>
-
