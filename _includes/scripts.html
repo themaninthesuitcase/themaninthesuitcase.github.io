@@ -9,3 +9,14 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
     integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
     crossorigin="anonymous"></script>
+
+{% if page.permalink == "/404.html" %}
+<script>
+    $(document).ready(function () {
+        var blinky = document.getElementById('blinky');
+        setInterval(function () {
+            blinky.style.display = (blinky.style.display == 'none' ? '' : 'none');
+        }, 500);
+    });
+</script>
+{% endif %}
